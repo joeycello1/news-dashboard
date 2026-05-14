@@ -33,7 +33,9 @@
       flex-direction: column;
       justify-content: space-between;
       background: var(--card);
-      border-radius: 8px;
+      border-radius: 12px;
+      background-color: #1b183a57;
+      border: 1px solid #e0ddd5;
       overflow: hidden;
       height: 100%;
       position: relative;
@@ -61,6 +63,14 @@
     }
     .card-content {
       padding: 15px;
+    }
+
+    .meta {
+      font-family: 'Inter', sans-serif; /* or any clean sans-serif */
+      font-size: 0.8rem;
+      color: #666; /* A softer gray so it doesn't compete with the title */
+      margin-top: 8px;
+      letter-spacing: 0.02em;
     }
 
     .card-media {
@@ -138,6 +148,76 @@ async function fetchSheetData() {
   }
 }
 
+function getCleanSource(sourceUrl) {
+  try {
+    if (!sourceUrl.includes('http')) return sourceUrl;
+
+    const url = new URL(sourceUrl);
+    const hostParts = url.hostname.split('.');
+    
+    // 1. Remove common technical prefixes
+    const noise = ['www', 'rss', 'feeds', 'feed', 'service', 'xml'];
+    const cleanParts = hostParts.filter(part => !noise.includes(part.toLowerCase()));
+    
+    // 2. Identify the core name
+    let name = "";
+    
+    // Check for multi-part TLDs like .co.uk
+    if (cleanParts.includes('co') || cleanParts.includes('com') && cleanParts.length > 1) {
+      // Grab the part before the 'co' (e.g., [bbc, co, uk] -> bbc)
+      const coIndex = cleanParts.indexOf('co');
+      name = coIndex > 0 ? cleanParts[coIndex - 1] : cleanParts[0];
+    } else {
+      // Grab the part before the .com or .org (e.g., [nytimes, com] -> nytimes)
+      name = cleanParts.length > 1 ? cleanParts[cleanParts.length - 2] : cleanParts[0];
+    }
+
+    // 3. Final Polish for specific brands
+    const brandMap = {
+      'bbci': 'BBC',
+      'bbc': 'BBC',
+      'nytimes': 'NY Times'
+    };
+    
+    return brandMap[name.toLowerCase()] || name.toUpperCase();
+  } catch (e) {
+    return "SOURCE";
+  }
+}
+
+function formatTimestamp(isoString) {
+  try {
+    if (!isoString) return "Recently";
+    
+    const itemDate = new Date(isoString);
+    const today = new Date();
+    
+    // Reset times to midnight for an accurate day-by-day comparison
+    const itemDay = new Date(itemDate.getFullYear(), itemDate.getMonth(), itemDate.getDate());
+    const todayDay = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+    
+    const diffTime = todayDay - itemDay;
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+    const timeString = String(itemDate.getHours()).padStart(2, '0') + ":" + 
+                       String(itemDate.getMinutes()).padStart(2, '0');
+
+    if (diffDays === 0) {
+      return `Today at ${timeString}`;
+    } else if (diffDays === 1) {
+      return `Yesterday at ${timeString}`;
+    } else if (diffDays < 7) {
+      const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+      return `${days[itemDate.getDay()]} at ${timeString}`;
+    } else {
+      // Fallback for anything older than a week
+      return `${itemDate.getMonth() + 1}-${itemDate.getDate()} at ${timeString}`;
+    }
+  } catch (e) {
+    return "Recently";
+  }
+}
+
 // 3. Render the news to the grid
 async function renderNews() {
   const data = await fetchSheetData();
@@ -154,7 +234,7 @@ async function renderNews() {
   <div class="card">
     <div class="card-content">
       <h3>${item.Title || "Untitled"}</h3>
-      <div class="meta">${item.Source || "Unknown"} • ${item.Timestamp || "Recently"}</div>
+      <div class="meta">From ${getCleanSource(item.Source)} • ${formatTimestamp(item.Timestamp)}</div>
       <div class="summary">${item.Summary || "No summary"}</div>
     </div>
     <div class="card-media">
