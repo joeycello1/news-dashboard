@@ -87,6 +87,45 @@
       align-items: center;
       gap: 6px; /* Spaces out the tag, dot, and time */
     }
+    .action-buttons {
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+    }
+    .btn-read, .btn-archive {
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        text-decoration: none;
+        transition: background 0.2s;
+    }
+
+    /* Primary "Read" Button */
+    .btn-read {
+        background-color: #1e3852;
+        color: rgb(176, 180, 234);
+        flex-grow: 2; /* Makes the main link more prominent */
+        text-align: center;
+    }
+
+    .btn-read:hover {
+        background-color: #224c7a;
+    }
+
+    /* Secondary "Archive" Button */
+    .btn-archive {
+        background-color: #262363;
+        color: #7685da;
+        border: 1px solid #a1b0e6;
+        flex-grow: 1;
+        text-align: center;
+    }
+
+    .btn-archive:hover {
+        background-color: #5a4fae;
+        color: #9891e9;
+    }
     .source-tag {
       background-color: #514f7b;
       color: #e8e8f5;
@@ -265,22 +304,36 @@ async function renderNews() {
   }
 
   loading.style.display = "none";
-  grid.innerHTML = data.map(item => `
-  <div class="card">
-    <div class="card-content">
-      <h3>${item.Title || "Untitled"}</h3>
-      <div class="meta">
-        <span class="source-tag">${getCleanSource(item.Source)}</span> 
-        <span class="separator">•</span> 
-        ${formatTimestamp(item.Timestamp)}
+  
+  grid.innerHTML = data.map(item => {
+    // 1. Move the URL construction inside the loop
+    const archiveUrl = `https://archive.is/?run=1&url=${encodeURIComponent(item.Link)}`;
+
+    // 2. Return the template literal
+    return `
+      <div class="card">
+        <div class="card-content">
+          <h3>${item.Title || "Untitled"}</h3>
+          <div class="meta">
+            <span class="source-tag">${getCleanSource(item.Source)}</span> 
+            <span class="separator">•</span> 
+            ${formatTimestamp(item.Timestamp)}
+          </div>
+          <div class="summary">${item.Summary || "No summary"}</div>
+        </div>
+        <div class="card-media">
+          ${isYouTube(item.Link) ? embedYouTube(item.Link) : `
+            <div class="action-buttons">
+              <a href="${item.Link}" class="btn-read" target="_blank">Read Article</a>
+              <a href="${archiveUrl}" class="btn-archive" target="_blank" title="View archived version">
+                Archive
+              </a>
+            </div>
+          `}
+        </div>
       </div>
-      <div class="summary">${item.Summary || "No summary"}</div>
-    </div>
-    <div class="card-media">
-      ${isYouTube(item.Link) ? embedYouTube(item.Link) : (item.Link ? `<a href="${item.Link}" target="_blank">Read more →</a>` : "")}
-    </div>
-  </div>
-`).join("");
+    `;
+  }).join("");
 }
 
 renderNews();
