@@ -64,18 +64,30 @@
     .card-content {
       padding: 15px;
     }
-
-    .meta {
-      font-family: 'Inter', sans-serif; /* or any clean sans-serif */
-      font-size: 0.8rem;
-      color: #666; /* A softer gray so it doesn't compete with the title */
-      margin-top: 8px;
-      letter-spacing: 0.02em;
-    }
-
     .card-media {
       padding: 0 15px 15px 15px; /* Keeps the video/link tucked into the bottom */
       margin-top: auto;
+    }
+    .meta {
+      font-size: 0.85rem;
+      color: #666;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 6px; /* Spaces out the tag, dot, and time */
+    }
+    .source-tag {
+      background-color: #514f7b;
+      color: #e8e8f5;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.75rem;
+      letter-spacing: 0.03em;
+    }
+    .separator {
+      color: #ccc;
     }
     .video-container {
       position: relative;
@@ -150,36 +162,48 @@ async function fetchSheetData() {
 
 function getCleanSource(sourceUrl) {
   try {
-    if (!sourceUrl.includes('http')) return sourceUrl;
+    let str = String(sourceUrl).trim();
+    if (!str.startsWith('http')) str = 'https://' + str;
 
-    const url = new URL(sourceUrl);
-    const hostParts = url.hostname.split('.');
+    const url = new URL(str);
+    const noise = ['www', 'rss', 'feeds', 'feed', 'service', 'xml', 'api', 'index'];
     
-    // 1. Remove common technical prefixes
-    const noise = ['www', 'rss', 'feeds', 'feed', 'service', 'xml'];
-    const cleanParts = hostParts.filter(part => !noise.includes(part.toLowerCase()));
-    
-    // 2. Identify the core name
+    // Split hostname and strip the "noise"
+    let parts = url.hostname.toLowerCase().split('.').filter(p => !noise.includes(p));
+
+    // Define TLDs and "Second Level" connectors that aren't the brand name
+    const tlds = ['com', 'org', 'net', 'edu', 'gov', 'io', 'me', 'uk', 'ca', 'ie'];
+    const connectors = ['co', 'com', 'org', 'ac', 'net'];
+
     let name = "";
-    
-    // Check for multi-part TLDs like .co.uk
-    if (cleanParts.includes('co') || cleanParts.includes('com') && cleanParts.length > 1) {
-      // Grab the part before the 'co' (e.g., [bbc, co, uk] -> bbc)
-      const coIndex = cleanParts.indexOf('co');
-      name = coIndex > 0 ? cleanParts[coIndex - 1] : cleanParts[0];
+
+    if (parts.length > 2) {
+      // If the second-to-last part is a connector (like 'co' in bbc.co.uk)
+      // we need to go back 3 spots.
+      const secondToLast = parts[parts.length - 2];
+      if (connectors.includes(secondToLast)) {
+        name = parts[parts.length - 3];
+      } else {
+        name = parts[parts.length - 2];
+      }
+    } else if (parts.length === 2) {
+      // Standard domain (nytimes.com)
+      name = parts[0];
     } else {
-      // Grab the part before the .com or .org (e.g., [nytimes, com] -> nytimes)
-      name = cleanParts.length > 1 ? cleanParts[cleanParts.length - 2] : cleanParts[0];
+      name = parts[0] || "Source";
     }
 
-    // 3. Final Polish for specific brands
     const brandMap = {
-      'bbci': 'BBC',
+      'arstechnica': 'Ars Technica',
+      'theatlantic': 'The Atlantic',
+      'longreads': 'Longreads',
+      'nytimes': 'NY Times',
       'bbc': 'BBC',
-      'nytimes': 'NY Times'
+      'bbci': 'BBC'
     };
-    
+
     return brandMap[name.toLowerCase()] || name.toUpperCase();
+
   } catch (e) {
     return "SOURCE";
   }
@@ -234,7 +258,11 @@ async function renderNews() {
   <div class="card">
     <div class="card-content">
       <h3>${item.Title || "Untitled"}</h3>
-      <div class="meta">From ${getCleanSource(item.Source)} • ${formatTimestamp(item.Timestamp)}</div>
+      <div class="meta">
+        <span class="source-tag">${getCleanSource(item.Source)}</span> 
+        <span class="separator">•</span> 
+        ${formatTimestamp(item.Timestamp)}
+      </div>
       <div class="summary">${item.Summary || "No summary"}</div>
     </div>
     <div class="card-media">
