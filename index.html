@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal News Dashboard</title>
+  <style>
+    :root {
+      --bg: #121212;
+      --card: #1e1e1e;
+      --text: #e0e0e0;
+      --accent: #bb86fc;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      margin-bottom: 20px;
+      color: var(--accent);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      align-items: start; /* Prevents cards from stretching to weird heights */
+    }
+    .card {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background: var(--card);
+      border-radius: 8px;
+      overflow: hidden;
+      height: 100%;
+      position: relative;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .card h3 {
+      margin: 0 0 5px 0;
+      color: var(--accent);
+    }
+    .card .meta {
+      font-size: 0.8em;
+      color: #aaa;
+      margin-bottom: 10px;
+    }
+    .card .summary {
+      margin-bottom: 10px;
+      font-size: 0.9em;
+    }
+    .card a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .card-content {
+      padding: 15px;
+    }
+
+    .card-media {
+      padding: 0 15px 15px 15px; /* Keeps the video/link tucked into the bottom */
+      margin-top: auto;
+    }
+    .video-container {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      margin-top: 15px; /* Adds space between text and video */
+      background: #000; /* Keeps the 'box' black while loading */
+    }
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      max-width: 100%; /* Prevents it from getting 'giant' */
+      border: none;
+      background: transparent; /* Prevents the 'double background' issue */
+    }
+    .loading {
+      text-align: center;
+      padding: 20px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>My News Dashboard</h1>
+  <div id="loading" class="loading">Loading news...</div>
+  <div class="grid" id="newsGrid"></div>
+
+  <script>
+    // 1. Keep these! They handle your video logic
+function isYouTube(url) {
+  return url && (url.includes("youtube.com") || url.includes("youtu.be"));
+}
+
+function embedYouTube(url) {
+  const regex = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i;
+  const match = url.match(regex);
+  const videoId = match ? match[1] : null;
+
+  if (!videoId) return "";
+
+  // Added a max-width and internal style to "force" size compliance
+  return `
+    <div class="video-container" style="max-width: 100%; position: relative;">
+      <iframe 
+        src="https://www.youtube.com/embed/${videoId}" 
+        frameborder="0" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+        allowfullscreen>
+      </iframe>
+    </div>`;
+}
+
+// 2. Fetch data from your new API
+async function fetchSheetData() {
+  const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwDR2QJaRIySlegq2pF2TX5zYVHXX1klwUePKx5UOTYBc0orFvDZLWu2nu_8ME4BQZH/exec";
+
+  try {
+    const response = await fetch(WEB_APP_URL);
+    const data = await response.json(); 
+    console.log("Success! Data loaded:", data);
+    return data;
+  } catch (error) {
+    console.error("The fetch failed:", error);
+    return [];
+  }
+}
+
+// 3. Render the news to the grid
+async function renderNews() {
+  const data = await fetchSheetData();
+  const grid = document.getElementById("newsGrid");
+  const loading = document.getElementById("loading");
+
+  if (data.length === 0) {
+    loading.textContent = "No news items found.";
+    return;
+  }
+
+  loading.style.display = "none";
+  grid.innerHTML = data.map(item => `
+  <div class="card">
+    <div class="card-content">
+      <h3>${item.Title || "Untitled"}</h3>
+      <div class="meta">${item.Source || "Unknown"} • ${item.Timestamp || "Recently"}</div>
+      <div class="summary">${item.Summary || "No summary"}</div>
+    </div>
+    <div class="card-media">
+      ${isYouTube(item.Link) ? embedYouTube(item.Link) : (item.Link ? `<a href="${item.Link}" target="_blank">Read more →</a>` : "")}
+    </div>
+  </div>
+`).join("");
+}
+
+renderNews();
+  </script>
+</body>
+</html>
