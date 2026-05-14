@@ -63,10 +63,21 @@
     }
     .card-content {
       padding: 15px;
+      flex-grow: 1; /* Pushes the media/links to the bottom of the card */
     }
     .card-media {
       padding: 0 15px 15px 15px; /* Keeps the video/link tucked into the bottom */
-      margin-top: auto;
+      margin-top: auto; /* Keeps the video/link at the bottom */
+      display: flex;
+      align-items: center;
+    }
+    .card-media iframe, 
+    .card-media video,
+    .card-media .video-container {
+        width: 100%;
+        aspect-ratio: 16 / 9; /* The magic line */
+        border-radius: 4px;
+        background-color: #000; /* Prevents white flashes while loading */
     }
     .meta {
       font-size: 0.85rem;
