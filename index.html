@@ -39,6 +39,7 @@
       overflow: hidden;
       height: 100%;
       position: relative;
+      transition: opacity 0.3s ease, transform 0.3s ease;
     }
     .card:hover {
       transform: translateY(-5px);
@@ -125,6 +126,46 @@
     .btn-archive:hover {
         background-color: #5a4fae;
         color: #9891e9;
+    }
+    .btn-hide {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: none;
+      background: rgba(0, 0, 0, 0.1);
+      color: #666;
+      font-size: 18px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 10;
+      transition: all 0.2s;
+    }
+
+    .btn-hide:hover {
+      background: #ff4d4d;
+      color: white;
+      transform: scale(1.1);
+    }
+
+    /* Hide the button on mobile if it's too cluttered, or keep it visible */
+    @media (max-width: 600px) {
+      .btn-hide {
+        background: rgba(0, 0, 0, 0.05); /* Subtler on mobile */
+      }
+    }
+    @media (pointer: coarse) {
+      .btn-hide {
+        width: 32px;  /* Larger tap target for fingers */
+        height: 32px;
+        top: 10px;
+        right: 10px;
+        background: rgba(0, 0, 0, 0.15); /* Slightly darker to see on mobile screens */
+      }
     }
     .source-tag {
       background-color: #514f7b;
@@ -348,9 +389,28 @@ function formatTimestamp(isoString) {
   }
 }
 
+// Function to hide a card
+function hideArticle(link) {
+  const hiddenArticles = JSON.parse(localStorage.getItem('hiddenArticles') || '[]');
+  hiddenArticles.push(link);
+  localStorage.setItem('hiddenArticles', JSON.stringify(hiddenArticles));
+  
+  // Immediately remove it from the DOM for that smooth "poof" effect
+  const card = document.querySelector(`[data-link="${link}"]`);
+  if (card) {
+    card.style.opacity = '0';
+    setTimeout(() => card.remove(), 300); // Wait for fade-out
+  }
+}
+
 // 3. Render the news to the grid
 async function renderNews() {
-  const data = await fetchSheetData();
+  const rawData = await fetchSheetData();
+  const hiddenArticles = JSON.parse(localStorage.getItem('hiddenArticles') || '[]');
+  
+  // Filter out anything in our "trash" list
+  const data = rawData.filter(item => !hiddenArticles.includes(item.Link));
+
   const grid = document.getElementById("newsGrid");
   const loading = document.getElementById("loading");
 
@@ -367,7 +427,8 @@ async function renderNews() {
     // If it's a video, return a simplified "Video Card" structure
   if (isVideo) {
     return `
-      <div class="card video-card">
+      <div class="card video-card" data-link="${item.Link}">
+        <button class="btn-hide" onclick="hideArticle('${item.Link}')" title="Hide this item">×</button>
         <div class="card-media">
           ${embedYouTube(item.Link)}
         </div>
@@ -379,7 +440,8 @@ async function renderNews() {
   const archiveUrl = `https://archive.is/?run=1&url=${encodeURIComponent(item.Link)}`;
 
   return `
-    <div class="card article-card">
+    <div class="card article-card" data-link="${item.Link}">
+      <button class="btn-hide" onclick="hideArticle('${item.Link}')" title="Hide this item">×</button>
       <div class="card-content">
         <h3>${item.Title || "Untitled"}</h3>
         <div class="meta">
