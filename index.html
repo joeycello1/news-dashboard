@@ -7,166 +7,78 @@
   <style>
     :root {
       --bg: #121212;
-      --card: #1e1e1e;
+      --card: #1b183a57; /* Your preferred purple-tinted dark */
       --text: #e0e0e0;
       --accent: #bb86fc;
+      --meta: #aaa;
+      --border: #e0ddd533; /* Slightly transparent so it's not too harsh */
     }
+
     body {
       background: var(--bg);
       color: var(--text);
-      font-family: 'Segoe UI', sans-serif;
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       margin: 0;
       padding: 20px;
     }
-    h1 {
-      margin-bottom: 20px;
-      color: var(--accent);
-    }
+
+    /* Grid Setup */
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 20px;
-      align-items: start; /* Prevents cards from stretching to weird heights */
+      align-items: stretch; /* Cards will be same height in a row */
     }
+
+    /* Universal Card Style */
     .card {
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
       background: var(--card);
       border-radius: 12px;
-      background-color: #1b183a57;
-      border: 1px solid #e0ddd5;
-      overflow: hidden;
-      height: 100%;
+      border: 1px solid var(--border);
       position: relative;
-      transition: opacity 0.3s ease, transform 0.3s ease;
+      overflow: hidden;
+      transition: transform 0.3s ease, opacity 0.3s ease;
     }
+
     .card:hover {
       transform: translateY(-5px);
     }
-    .card h3 {
-      margin: 0 0 5px 0;
-      color: var(--accent);
-    }
-    .card .meta {
-      font-size: 0.8em;
-      color: #aaa;
-      margin-bottom: 10px;
-    }
-    .card .summary {
-      margin-bottom: 10px;
-      font-size: 0.9em;
-    }
-    .card a {
-      color: var(--accent);
+
+    /* Title Link Styles */
+    .title-link {
       text-decoration: none;
+      color: var(--accent);
       font-weight: bold;
+      transition: opacity 0.2s;
     }
+
+    .title-link:hover {
+      text-decoration: underline;
+      opacity: 0.8;
+    }
+
+    /* Content Layout */
     .card-content {
       padding: 15px;
-      flex-grow: 1; /* Pushes the media/links to the bottom of the card */
+      flex-grow: 1; /* Pushes media section to the bottom */
     }
-    .card-media {
-      padding: 0 15px 15px 15px; /* Keeps the video/link tucked into the bottom */
-      margin-top: auto; /* Keeps the video/link at the bottom */
-      display: flex;
-      align-items: center;
+
+    .card h3 {
+      margin: 0 0 8px 0;
+      line-height: 1.3;
     }
-    .card-media iframe, 
-    .card-media video,
-    .card-media .video-container {
-        width: 100%;
-        aspect-ratio: 16 / 9; /* The magic line */
-        border-radius: 4px;
-        background-color: #000; /* Prevents white flashes while loading */
-    }
+
     .meta {
-      font-size: 0.85rem;
-      color: #666;
-      margin-bottom: 8px;
+      font-size: 0.8rem;
+      color: var(--meta);
       display: flex;
       align-items: center;
-      gap: 6px; /* Spaces out the tag, dot, and time */
-    }
-    .action-buttons {
-        display: flex;
-        gap: 10px;
-        margin-top: 10px;
-    }
-    .btn-read, .btn-archive {
-        padding: 8px 12px;
-        border-radius: 6px;
-        font-size: 0.85rem;
-        font-weight: 600;
-        text-decoration: none;
-        transition: background 0.2s;
+      gap: 6px;
+      margin-bottom: 12px;
     }
 
-    /* Primary "Read" Button */
-    .btn-read {
-        background-color: #1e3852;
-        color: rgb(176, 180, 234);
-        flex-grow: 2; /* Makes the main link more prominent */
-        text-align: center;
-    }
-
-    .btn-read:hover {
-        background-color: #224c7a;
-    }
-
-    /* Secondary "Archive" Button */
-    .btn-archive {
-        background-color: #262363;
-        color: #7685da;
-        border: 1px solid #a1b0e6;
-        flex-grow: 1;
-        text-align: center;
-    }
-
-    .btn-archive:hover {
-        background-color: #5a4fae;
-        color: #9891e9;
-    }
-    .btn-hide {
-      position: absolute;
-      top: 8px;
-      right: 8px;
-      width: 24px;
-      height: 24px;
-      border-radius: 50%;
-      border: none;
-      background: rgba(0, 0, 0, 0.1);
-      color: #d5d6f1;
-      font-size: 18px;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      z-index: 10;
-      transition: all 0.2s;
-    }
-
-    .btn-hide:hover {
-      background: #ff4d4d;
-      color: white;
-      transform: scale(1.1);
-    }
-
-    /* Hide the button on mobile if it's too cluttered, or keep it visible */
-    @media (max-width: 600px) {
-      .btn-hide {
-        background: rgba(0, 0, 0, 0.05); /* Subtler on mobile */
-      }
-    }
-    @media (pointer: coarse) {
-      .btn-hide {
-        width: 32px;  /* Larger tap target for fingers */
-        height: 32px;
-        top: 10px;
-        right: 10px;
-        background: rgba(0, 0, 0, 0.15); /* Slightly darker to see on mobile screens */
-      }
-    }
     .source-tag {
       background-color: #514f7b;
       color: #e8e8f5;
@@ -174,85 +86,107 @@
       border-radius: 4px;
       font-weight: 600;
       text-transform: uppercase;
-      font-size: 0.75rem;
-      letter-spacing: 0.03em;
+      font-size: 0.7rem;
     }
-    .separator {
+
+    .summary {
+      font-size: 0.9rem;
+      line-height: 1.5;
       color: #ccc;
     }
-    /* Remove padding for cards that contain only video */
+
+    /* Media & Button Section */
+    .card-media {
+      padding: 0 15px 15px 15px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    /* Unified Video Handling */
     .video-card {
-        background-color: #1a1a1a; /* Dark grey instead of pure black */
-        background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="%23333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect><line x1="7" y1="2" x2="7" y2="22"></line><line x1="17" y1="2" x2="17" y2="22"></line><line x1="2" y1="12" x2="22" y2="12"></line><line x1="2" y1="7" x2="7" y2="7"></line><line x1="2" y1="17" x2="7" y2="17"></line><line x1="17" y1="17" x2="22" y2="17"></line><line x1="17" y1="7" x2="22" y2="7"></line></svg>');
-        background-repeat: no-repeat;
-        background-position: center;
-        padding: 0 !important;
-        margin: 0;
-        box-shadow: none; /* Optional: matches the "clean" look */
+      padding: 0 !important;
+      background-color: #000;
     }
 
-    /* Optional: Semi-transparent overlay for title and source on video cards */
-    .video-header {
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        z-index: 10;
-        padding: 10px;
-        background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, transparent 100%);
-        color: white;
-        pointer-events: none; /* Allows clicks to pass through to the video */
-    }
-
-    .video-title {
-        display: block;
-        font-size: 0.9rem;
-        font-weight: 500;
-        margin-top: 4px;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-    /* The Media Container fills the card space */
     .video-card .card-media {
-        flex-grow: 1;
-        margin: 0;
-        line-height: 0; /* Prevents tiny gaps at the bottom of the iframe */
+      padding: 0;
+      margin: 0;
     }
 
-    .video-card iframe {
-        border-radius: 12px; /* Matches modern dashboard aesthetics */
-        border: none;
-        width: 100%;
-        height: 100%;
-        aspect-ratio: 16 / 9;
-    }
-    .video-container {
-      position: relative;
+    iframe, video {
       width: 100%;
-      padding-bottom: 56.25%;
-      height: 0;
-      overflow: hidden;
-      margin-top: 15px; /* Adds space between text and video */
-      background: #000; /* Keeps the 'box' black while loading */
-    }
-    .video-container iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      max-width: 100%; /* Prevents it from getting 'giant' */
+      aspect-ratio: 16 / 9;
       border: none;
-      background: transparent; /* Prevents the 'double background' issue */
+      display: block; /* Removes bottom whitespace */
     }
-    .loading {
+
+    /* Archive Button (Specific for Articles) */
+    .action-buttons {
+      display: flex;
+      width: 100%;
+    }
+
+    .btn-archive {
+      background-color: #262363;
+      color: #7685da;
+      border: 1px solid #a1b0e6;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-decoration: none;
       text-align: center;
-      padding: 20px;
-      color: #aaa;
+      width: 100%;
+      transition: background 0.2s;
     }
-  </style>
+
+    .btn-archive:hover {
+      background-color: #5a4fae;
+      color: #fff;
+    }
+
+    /* Audio Player Styling */
+    audio {
+      width: 100%;
+      height: 35px;
+    }
+
+    /* Hide Button (Fixed positioning for all cards) */
+    .btn-hide {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      border: none;
+      background: rgba(0, 0, 0, 0.4);
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+      z-index: 20;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+    }
+
+    .btn-hide:hover {
+      background: #ff4d4d;
+    }
+
+    /* iPad/Mobile Tap Targets */
+    @media (pointer: coarse) {
+      .btn-hide {
+        width: 36px;
+        height: 36px;
+        font-size: 20px;
+      }
+    }
+
+    .loading { text-align: center; padding: 40px; color: var(--meta); }
+</style>
 </head>
 <body>
   <h1></h1>
@@ -279,7 +213,7 @@ function embedYouTube(url) {
     }
     
     return `
-      <div class="video-container">
+      <div class="video-card">
         <iframe 
           src="https://www.youtube.com/embed/${videoId}" 
           frameborder="0" 
@@ -422,44 +356,50 @@ async function renderNews() {
   loading.style.display = "none";
   
   grid.innerHTML = data.map(item => {
-    const isVideo = isYouTube(item.Link);
+  const isVideo = isYouTube(item.Link);
+  const audioUrl = item.AudioLink;
+  const hasAudio = audioUrl && audioUrl.toString().trim() !== "";
+  const archiveUrl = `https://archive.is/?run=1&url=${encodeURIComponent(item.Link || '')}`;
 
-    // If it's a video, return a simplified "Video Card" structure
+  // Helper for the clickable Title
+  const cardTitle = `<h3><a href="${item.Link}" target="_blank" class="title-link">${item.Title || "Untitled"}</a></h3>`;
+
+  // 1. VIDEO LAYOUT (Keeping it minimal as per your preference)
   if (isVideo) {
     return `
       <div class="card video-card" data-link="${item.Link}">
-        <button class="btn-hide" onclick="hideArticle('${item.Link}')" title="Hide this item">×</button>
-        <div class="card-media">
-          ${embedYouTube(item.Link)}
-        </div>
-      </div>
-    `;
+        <button class="btn-hide" onclick="hideArticle('${item.Link}')">×</button>
+        <div class="card-media">${embedYouTube(item.Link)}</div>
+      </div>`;
   }
 
-  // Define archiveUrl only for articles to save processing
-  const archiveUrl = `https://archive.is/?run=1&url=${encodeURIComponent(item.Link)}`;
-
+  // 2. ARTICLE & PODCAST LAYOUT
   return `
-    <div class="card article-card" data-link="${item.Link}">
-      <button class="btn-hide" onclick="hideArticle('${item.Link}')" title="Hide this item">×</button>
+    <div class="card ${hasAudio ? 'podcast-card' : 'article-card'}" data-link="${item.Link}">
+      <button class="btn-hide" onclick="hideArticle('${item.Link}')">×</button>
       <div class="card-content">
-        <h3>${item.Title || "Untitled"}</h3>
+        ${cardTitle}
         <div class="meta">
           <span class="source-tag">${getCleanSource(item.Source)}</span> 
-          <span class="separator">•</span> 
-          ${formatTimestamp(item.Timestamp)}
+          • ${formatTimestamp(item.Timestamp)}
         </div>
-        <div class="summary">${item.Summary || "No summary"}</div>
+        <div class="summary">${item.Summary || ""}</div>
       </div>
       <div class="card-media">
-        <div class="action-buttons">
-          <a href="${item.Link}" class="btn-read" target="_blank">Read Article</a>
-          <a href="${archiveUrl}" class="btn-archive" target="_blank">Archive</a>
-        </div>
+        ${hasAudio ? `
+          <div class="audio-container">
+            <audio controls preload="none" style="width:100%;">
+              <source src="${audioUrl}" type="audio/mpeg">
+            </audio>
+          </div>
+        ` : `
+          <div class="action-buttons">
+            <a href="${archiveUrl}" class="btn-archive" target="_blank">Read on Archive</a>
+          </div>
+        `}
       </div>
-    </div>
-    `;
-  }).join("");
+    </div>`;
+}).join("");
 }
 
 renderNews();
