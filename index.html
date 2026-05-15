@@ -139,6 +139,54 @@
     .separator {
       color: #ccc;
     }
+    /* Remove padding for cards that contain only video */
+    .video-card {
+        background-color: #1a1a1a; /* Dark grey instead of pure black */
+        background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="%23333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect><line x1="7" y1="2" x2="7" y2="22"></line><line x1="17" y1="2" x2="17" y2="22"></line><line x1="2" y1="12" x2="22" y2="12"></line><line x1="2" y1="7" x2="7" y2="7"></line><line x1="2" y1="17" x2="7" y2="17"></line><line x1="17" y1="17" x2="22" y2="17"></line><line x1="17" y1="7" x2="22" y2="7"></line></svg>');
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 0 !important;
+        margin: 0;
+        box-shadow: none; /* Optional: matches the "clean" look */
+    }
+
+    /* Optional: Semi-transparent overlay for title and source on video cards */
+    .video-header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 10;
+        padding: 10px;
+        background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, transparent 100%);
+        color: white;
+        pointer-events: none; /* Allows clicks to pass through to the video */
+    }
+
+    .video-title {
+        display: block;
+        font-size: 0.9rem;
+        font-weight: 500;
+        margin-top: 4px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* The Media Container fills the card space */
+    .video-card .card-media {
+        flex-grow: 1;
+        margin: 0;
+        line-height: 0; /* Prevents tiny gaps at the bottom of the iframe */
+    }
+
+    .video-card iframe {
+        border-radius: 12px; /* Matches modern dashboard aesthetics */
+        border: none;
+        width: 100%;
+        height: 100%;
+        aspect-ratio: 16 / 9;
+    }
     .video-container {
       position: relative;
       width: 100%;
@@ -173,27 +221,35 @@
   <script>
     // 1. Keep these! They handle your video logic
 function isYouTube(url) {
-  return url && (url.includes("youtube.com") || url.includes("youtu.be"));
+  if (!url) return false;
+  return url.includes('youtube.com') || url.includes('youtu.be');
 }
 
 function embedYouTube(url) {
-  const regex = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i;
-  const match = url.match(regex);
-  const videoId = match ? match[1] : null;
-
-  if (!videoId) return "";
-
-  // Added a max-width and internal style to "force" size compliance
-  return `
-    <div class="video-container" style="max-width: 100%; position: relative;">
-      <iframe 
-        src="https://www.youtube.com/embed/${videoId}" 
-        frameborder="0" 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-        allowfullscreen>
-      </iframe>
-    </div>`;
-}
+  // Extract the Video ID from various YouTube URL formats
+  let videoId = '';
+  try {
+    if (url.includes('v=')) {
+      videoId = url.split('v=')[1].split('&')[0];
+    } else if (url.includes('youtu.be/')) {
+      videoId = url.split('youtu.be/')[1].split('?')[0];
+    } else if (url.includes('embed/')) {
+      videoId = url.split('embed/')[1].split('?')[0];
+    }
+    
+    return `
+      <div class="video-container">
+        <iframe 
+          src="https://www.youtube.com/embed/${videoId}" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>`;
+    } catch (e) {
+      return `<a href="${url}" target="_blank">Watch on YouTube</a>`;
+      }
+  }
 
 // 2. Fetch data from your new API
 async function fetchSheetData() {
@@ -306,32 +362,40 @@ async function renderNews() {
   loading.style.display = "none";
   
   grid.innerHTML = data.map(item => {
-    // 1. Move the URL construction inside the loop
-    const archiveUrl = `https://archive.is/?run=1&url=${encodeURIComponent(item.Link)}`;
+    const isVideo = isYouTube(item.Link);
 
-    // 2. Return the template literal
+    // If it's a video, return a simplified "Video Card" structure
+  if (isVideo) {
     return `
-      <div class="card">
-        <div class="card-content">
-          <h3>${item.Title || "Untitled"}</h3>
-          <div class="meta">
-            <span class="source-tag">${getCleanSource(item.Source)}</span> 
-            <span class="separator">•</span> 
-            ${formatTimestamp(item.Timestamp)}
-          </div>
-          <div class="summary">${item.Summary || "No summary"}</div>
-        </div>
+      <div class="card video-card">
         <div class="card-media">
-          ${isYouTube(item.Link) ? embedYouTube(item.Link) : `
-            <div class="action-buttons">
-              <a href="${item.Link}" class="btn-read" target="_blank">Read Article</a>
-              <a href="${archiveUrl}" class="btn-archive" target="_blank" title="View archived version">
-                Archive
-              </a>
-            </div>
-          `}
+          ${embedYouTube(item.Link)}
         </div>
       </div>
+    `;
+  }
+
+  // Define archiveUrl only for articles to save processing
+  const archiveUrl = `https://archive.is/?run=1&url=${encodeURIComponent(item.Link)}`;
+
+  return `
+    <div class="card article-card">
+      <div class="card-content">
+        <h3>${item.Title || "Untitled"}</h3>
+        <div class="meta">
+          <span class="source-tag">${getCleanSource(item.Source)}</span> 
+          <span class="separator">•</span> 
+          ${formatTimestamp(item.Timestamp)}
+        </div>
+        <div class="summary">${item.Summary || "No summary"}</div>
+      </div>
+      <div class="card-media">
+        <div class="action-buttons">
+          <a href="${item.Link}" class="btn-read" target="_blank">Read Article</a>
+          <a href="${archiveUrl}" class="btn-archive" target="_blank">Archive</a>
+        </div>
+      </div>
+    </div>
     `;
   }).join("");
 }
