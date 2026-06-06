@@ -19,7 +19,7 @@ function extractYouTubeId(url) {
 
 async function fetchSheetData() {
     try {
-        const response = await fetch("data.json");
+        const response = await fetch("data.json?v=${Date.now()}");
         const data = await response.json();
         console.log("🚀 API Fetch Success:", data);
         return data;
