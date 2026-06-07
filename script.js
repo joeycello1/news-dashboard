@@ -1,6 +1,4 @@
 // Centralized API Configuration Setup
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbz4kKFWfP1-dP5bFRBYyOBKmmOOSimpD65dYPFKIZt4b13pWkYnQVG9326obLnn_G0D/exec";
-
 function isYouTube(url) {
     if (!url) return false;
     return url.includes('youtube.com') || url.includes('youtu.be');
