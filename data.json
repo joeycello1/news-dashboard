@@ -1,11 +1,92 @@
 [
   {
+    "timestamp": "2026-06-09T23:31:41.000Z",
+    "title": "New book spotlights grandparents raising children",
+    "link": "https://www.youtube.com/watch?v=XLcw0ABGm5U",
+    "source": "PBS NewsHour",
+    "summary": "More than 2.5 million children across the U.S. live in households where grandparents have taken on the role of primary caregiver. But many grandparents face challenges navigating custody issues and accessing the resources and support they need. Geoff...",
+    "keyword": "PBS",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-06-09T23:10:07.000Z",
+    "title": "A Brief But Spectacular take on changing the lineup",
+    "link": "https://www.youtube.com/watch?v=mnI5nNkMBwI",
+    "source": "PBS NewsHour",
+    "summary": "Playing sports teaches more than just the game, it helps kids build confidence and navigate challenges both on and off the field. Mason Thomas brings that philosophy to Harlem Lacrosse in Compton, California, where he mentors students on and off the...",
+    "keyword": "PBS",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-06-09T23:01:09.000Z",
+    "title": "Texas Tech ruling ignites debate on sports betting and gambling addiction",
+    "link": "https://www.youtube.com/watch?v=aON_5BXyM8U",
+    "source": "PBS NewsHour",
+    "summary": "A judge's ruling in Texas is sending shockwaves through college sports. Texas Tech quarterback Brendan Sorsby, who wagered $90 thousand on sports games, was banned from the sport. But he and the school appealed, arguing he has a gambling addiction an...",
+    "keyword": "PBS",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-06-09T23:00:08.000Z",
+    "title": "Graham Platner expected to win Dem Senate nomination in Maine despite abuse allegations",
+    "link": "https://www.youtube.com/shorts/9NnMPZ7VQbY",
+    "source": "The Hill",
+    "summary": "Democrats are feeling a mix of anxiety and unease heading into Tuesday's primary in Maine when it comes to Graham Platner, the oyster farmer and political neophyte whose campaign has been plagued by a series of controversies. While the revelations a...",
+    "keyword": "graham platner",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-06-09T22:55:01.000Z",
+    "title": "U.S. retaliates against Iran after American helicopter downed near Strait of Hormuz",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/leadtapeee.mp3",
+    "source": "PBS Newshour",
+    "summary": "The U.S. military started what it called \"self-defense strikes\" against Iran for the downing of an Army helicopter near the Strait of Hormuz. President Trump said the two crew members were both \"safe and uninjured\" after the Apache helicopter went do...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/leadtapeee.mp3"
+  },
+  {
+    "timestamp": "2026-06-09T22:53:44.000Z",
+    "title": "News Wrap: Israel's bombing campaign against Hezbollah continues inside Lebanon",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/newswraappppp.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Tuesday, Israel's bombing campaign against Hezbollah continued inside Lebanon, complicating prospects of a peace deal between the U.S. and Iran, protests over a proposed Ebola quarantine center for Americans in Kenya led to violent p...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/newswraappppp.mp3"
+  },
+  {
+    "timestamp": "2026-06-09T22:50:23.000Z",
+    "title": "How Maine Democrats view Platner's scandals and chances to oust Sen. Collins",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/vote20266.mp3",
+    "source": "PBS Newshour",
+    "summary": "Republicans and Democrats in Nevada, North Dakota and South Carolina select their nominees on Tuesday, but much of the nation's political focus will be on Maine. Democrat Graham Platner is expected to emerge from the primary to take on five-term incu...",
+    "keyword": "graham platner",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/vote20266.mp3"
+  },
+  {
+    "timestamp": "2026-06-09T22:48:52.000Z",
+    "title": "LIVE: Graham Platner expected to speak as he seeks nomination for US Senate in Maine",
+    "link": "https://www.youtube.com/watch?v=_VlTUMAjx64",
+    "source": "Associated Press",
+    "summary": "Graham Platner is running in Tuesday's Maine primary election for the chance to face longtime Republican Sen. Susan Collins, a contest that Democrats see as a must-win as the party tries to claim control of the Senate in November. Platner has been d...",
+    "keyword": "graham platner",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-06-09T22:34:14.000Z",
     "title": "Bill Pulte 'deeply unqualified' to lead U.S. intelligence efforts, Jeffries says",
     "link": "https://www.youtube.com/watch?v=cd9E0I9_RyM",
     "source": "PBS NewsHour",
     "summary": "On Tuesday, the House passed a bill that will fund immigration and border enforcement agencies. The package passed in the Senate last week and heads to the president's desk. Attention now turns to the Foreign Intelligence Surveillance Act and Democra...",
     "keyword": "PBS",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-06-09T22:30:12.000Z",
+    "title": "AOC distinguishes between Platner allegations & proven Trump misconduct ahead of Maine primary",
+    "link": "https://www.youtube.com/watch?v=2CZEC6e-1xo",
+    "source": "The Hill",
+    "summary": "Rep. Alexandria Ocasio-Cortez (D-NY) talks Graham Platner allegations ahead of Maine primary election tonight. She says his allegations are not something to ignore and describes the distinctions between his allegations and Trump's proven misconduct...",
+    "keyword": "graham platner",
     "audioLink": ""
   },
   {
@@ -1105,68 +1186,5 @@
     "summary": "With energy prices on the rise amid the Iran war, are Americans open to a new way of powering our world through renewable power like wind and solar? Horizons moderator William Brangham discussed how rural America fits into the equation with Bill McK...",
     "keyword": "PBS",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-05T23:20:40.000Z",
-    "title": "PBS News Hour full episode, June 5, 2026",
-    "link": "https://www.youtube.com/watch?v=yI-MkCer-UY",
-    "source": "PBS NewsHour",
-    "summary": "Friday on the News Hour, the U.S. economy makes solid job gains despite strain from the Iran war. Oil supplies dwindle as the Strait of Hormuz remains mostly closed. Putin rejects Ukraine's call for face-to-face talks. An art exhibit shines a light o...",
-    "keyword": "PBS",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-05T23:12:40.000Z",
-    "title": "This chef will teach you how to make healthy $5 family dinners",
-    "link": "https://www.youtube.com/watch?v=P5FkKY7sEc0",
-    "source": "PBS NewsHour",
-    "summary": "With rising grocery prices, many Americans are struggling to provide healthy, complete meals for their families. One chef is teaching his TikTok followers how to eat well on a budget, one $5 meal at a time. Deema Zein reports. Watch PBS News for dai...",
-    "keyword": "PBS",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-05T22:55:32.000Z",
-    "title": "Why hiring surged in May despite economic strain from the Iran war",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/leadtapejune5.mp3",
-    "source": "PBS Newshour",
-    "summary": "There was surprising strength in the latest U.S. jobs report. Employers added 172,000 jobs in May, the third straight month of job gains. Overall, the labor market appears strong despite concerns about the Iran war, rising prices and artificial intel...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/leadtapejune5.mp3"
-  },
-  {
-    "timestamp": "2026-06-05T22:53:54.000Z",
-    "title": "Art exhibit shines light on women's role in technologies that power modern life",
-    "link": "https://www.youtube.com/watch?v=HhdPIjTf85w",
-    "source": "PBS NewsHour",
-    "summary": "Women have played a vital role in building the technologies that shape modern life, but their contributions have at times been overlooked, minimized or left out of the historical record. A new art exhibition seeks to tell a fuller story. Special corr...",
-    "keyword": "PBS",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-05T22:52:06.000Z",
-    "title": "Brooks and Capehart on some Republican lawmakers' defiance of Trump",
-    "link": "https://www.youtube.com/watch?v=LNrOAqFnV-c",
-    "source": "PBS NewsHour",
-    "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including Republican defiance of President Donald Trump and fresh scandals in a key Senate race. Watch PBS News for daily, breaking and liv...",
-    "keyword": "PBS",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-05T22:50:31.000Z",
-    "title": "What may happen as oil supplies dwindle and Strait of Hormuz remains mostly closed",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/iranwarrrjune5.mp3",
-    "source": "PBS Newshour",
-    "summary": "As U.S.-Iran talks show little sign of progress, commercial traffic through the Strait of Hormuz remains sharply reduced, raising concerns about global energy markets and supply chains. Geoff Bennett speaks with energy analyst Daniel Yergin, vice cha...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/iranwarrrjune5.mp3"
-  },
-  {
-    "timestamp": "2026-06-05T22:45:12.000Z",
-    "title": "News Wrap: Senate passes $70 billion immigration enforcement bill",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/newswrapjune5.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Friday, Senate Republicans passed a $70 billion bill to fund immigration enforcement, Trump said he wants his new acting director of national intelligence to slash the agency's staffing, a federal judge struck down the Trump administ...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/newswrapjune5.mp3"
   }
 ]
