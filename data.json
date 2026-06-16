@@ -45,6 +45,15 @@
     "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/033cca8a-24fe-472e-b3b5-951582dcdce1/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=033cca8a-24fe-472e-b3b5-951582dcdce1&feed=HMwRVgVt&t=podcast&e=nx-s1-5859921&p=510318&d=739&size=11832469"
   },
   {
+    "timestamp": "2026-06-16T09:09:00.000Z",
+    "title": "MCG-Savannah equips doctors of tomorrow through case-based learning - Savannah Morning News",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRFpBMGJmeWI4UjRhX05Ka2dMUG9aQkYtVGJPVDdsVGFCaE1QZ20tV0k3bmRsSXFYektVTXZDVlFkT2hQdTQybXhKekZGdlBDdGNLS0U2Y1JNd3RuanRWakh3MGwxV05EdExvTzMwczFxSXQwLTBMSFp4Tzd2Y2owSjhnSlFrTHRaWnlCMGlXeVpqa2ZUSVpTWkhiZ0JqbUxieUM3R2VfRm0zYm1uODF1T0VQQXU1WEo1akU3ZjRFOG5oVE4tWm9wYVo3VkZZbnN5MVhqMVFn?oc=5",
+    "source": "Local News via Google",
+    "summary": "MCG-Savannah equips doctors of tomorrow through case-based learning&nbsp;&nbsp;Savannah Morning News...",
+    "keyword": "Savannah",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-06-16T09:08:00.000Z",
     "title": "DO Savannah: events to attend this week - Savannah Morning News",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEN1Q3FqUm15aWk1eTJuMGNTMzF4dGEtWGlfNDhxSVAzbVNHa2NZOVFUVEZGNlBYc3BIa3ZmUHFiQnI3NlUwbGlRMjc2cThUX3JuVEdycDNoamcxMXFqYmNhWXJCT3J0RVNxUXFVUmoyNnpIN0NfRGQyQmg0dmdnVVEzU0R2cG9HQ1dQQ0taU0hfZldYTEFPQmdoZkJvZjYtaEx2OWJzWlBuZmdzT3ctamdmdmlJOHF0eXBv?oc=5",
@@ -213,6 +222,15 @@
     "source": "The Guardian",
     "summary": "UFO thriller is on track to become director's best performing original title in the US, taking just shy of $100m in global revenue after opening weekend Disclosure Day, Steven Spielberg's thriller in which it is revealed the US has been experimenting...",
     "keyword": "ufo",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-06-15T13:09:53.000Z",
+    "title": "SPD Investigates a Shooting in the 1000 block of Wolf Street - Savannah Police Department",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdV91OWF4NHNRaHlVZ1YyMXBLWHZpYzlDeFh3ZmxMOXE1ODEyZDZsc1FGc1k2bHJRMVFXNmprZ25IZDgwTUc3bk44Q3ZpZHJJWERxa2Uwc3lhQ2VscGoxQmVQamswNlJlNTlicTBxTTRpSTlSbjJORHVOS284LWU4eC02OElyZGUyWnk3SA?oc=5",
+    "source": "Local News via Google",
+    "summary": "SPD Investigates a Shooting in the 1000 block of Wolf Street&nbsp;&nbsp;Savannah Police Department...",
+    "keyword": "Savannah",
     "audioLink": ""
   },
   {
@@ -600,15 +618,6 @@
     "source": "Local News via Google",
     "summary": "Union Mission grows services with Emmaus House Resource Center&nbsp;&nbsp;Savannah Morning News...",
     "keyword": "Savannah",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-12T16:34:36.000Z",
-    "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-    "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "source": "Ars Technica",
-    "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites....",
-    "keyword": "Gemini",
     "audioLink": ""
   }
 ]
