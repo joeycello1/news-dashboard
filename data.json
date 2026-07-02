@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-07-02T22:50:16.000Z",
+    "title": "News Wrap: Former U.S. Olympian faces felony charge for alleged Reflecting Pool vandalism",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrap-1.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Thursday, a former U.S. Olympian faces a felony charge for allegedly vandalizing the refurbished Reflecting Pool, nearly 200 million Americans remain under heat warnings ahead of what's expected to be one of the hottest Independence...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrap-1.mp3"
+  },
+  {
+    "timestamp": "2026-07-02T22:45:09.000Z",
+    "title": "As Venezuela crisis deepens, Chef Jos&eacute; Andr&eacute;s feeds earthquake survivors and search teams",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/venezuela-1.mp3",
+    "source": "PBS Newshour",
+    "summary": "Venezuela's earthquake death toll has climbed to nearly 2,300 with thousands injured and tens of thousands still missing. Overwhelmed morgues, growing humanitarian needs, and mounting frustration over the pace of the response are compounding the cris...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/venezuela-1.mp3"
+  },
+  {
+    "timestamp": "2026-07-02T22:40:14.000Z",
+    "title": "How legal battles across the country could complicate the midterms",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/vote.mp3",
+    "source": "PBS Newshour",
+    "summary": "As President Trump attempts to wield greater power over election administration ahead of the midterms, dozens of legal battles are currently underway across the country. Their outcomes could shape how elections are run this fall. Liz Landers discusse...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/vote.mp3"
+  },
+  {
     "timestamp": "2026-07-02T18:18:27.000Z",
     "title": "We're All Focusing On the Wrong Part of NPR's Retirement Error",
     "link": "https://slate.com/news-and-politics/2026/07/nina-totenberg-alito-retirement-mistake-what-went-wrong.html?via=rss",
@@ -160,59 +187,5 @@
     "summary": "The Supreme Court wrapped up its term issuing major rulings in cases centered on some of the nation's biggest political fights. The most high-profile is a landmark ruling striking down President Trump's executive order seeking to end birthright citiz...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/leadtapeee..mp3"
-  },
-  {
-    "timestamp": "2026-06-30T22:50:54.000Z",
-    "title": "How the birthright citizenship decision impacts Trump's immigration agenda",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/birthrightcitizenshipppmp3.mp3",
-    "source": "PBS Newshour",
-    "summary": "To discuss the Supreme Court's birthright citizenship ruling, Amna Nawaz spoke with Amanda Frost. She is a professor at the University of Virginia School of Law, and the author of \"You Are Not American: Citizenship Stripping from Dred Scott to the Dr...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/birthrightcitizenshipppmp3.mp3"
-  },
-  {
-    "timestamp": "2026-06-30T22:45:00.000Z",
-    "title": "Who is affected by the Supreme Court's ruling on trans athletes in women's sports",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/transgenderathletess.mp3",
-    "source": "PBS Newshour",
-    "summary": "To discuss the Supreme Court upholding state bans on transgender athletes competing in girls' and women's sports, Geoff Bennett spoke with Katie Barnes, who covers sports and gender as a senior writer for ESPN. PBS News is supported by - https://www...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/transgenderathletess.mp3"
-  },
-  {
-    "timestamp": "2026-06-30T22:40:04.000Z",
-    "title": "Supreme Court transforms campaign finance rules, lifting limits on party spending",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/electionspending.mp3",
-    "source": "PBS Newshour",
-    "summary": "The Supreme Court's conservative majority transformed campaign finance laws, lifting limits on how much political parties can spend on advertising and other expenses in coordination with candidates. Geoff Bennett discussed the decision with Rick Gase...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/06/electionspending.mp3"
-  },
-  {
-    "timestamp": "2026-06-30T22:30:54.000Z",
-    "title": "Talarico Seizes on Paxton Tabloid Story to Test Corruption Attacks in Texas Senate Race",
-    "link": "https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html",
-    "source": "NYTimes Home",
-    "summary": "After a salacious report about Ken Paxton, the Republican nominee for Senate in Texas, his Democratic rival, James Talarico, seized on the news - but focused on corruption and affordability....",
-    "keyword": "Talarico",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-30T22:06:39.000Z",
-    "title": "Crash closes northbound I-95 in Richmond Hill - WJCL",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dk1uZG5IOEh5Q3E5alJxRGxWRjJwZnA4MWJaQ0ZNWHJfWXhRUlJPczQtUkthdlhmUlhvd0lMX1BMUXdib1ZaLVFfcnEtSGN1NlI0eDBWNkliaVBpY0tJUHA0NmJLcVBldk5KU0RIWm5oVWU1ejcw?oc=5",
-    "source": "Local News via Google",
-    "summary": "Crash closes northbound I-95 in Richmond Hill&nbsp;&nbsp;WJCL...",
-    "keyword": "Richmond Hill",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-06-30T22:02:09.000Z",
-    "title": "Crash closes northbound I-95 in Richmond Hill - WJCL",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5ekJ6RExvUFlwYm5xb1ZfLXhQVlktYWlxSjVxcTZKejhQbWdBVzJialQwakw1ekpCaDczMmwxVlZMVnc3SUt4ak1wVW55ZnJtM29tUFItOUVrSnVLV3ZUQklhX3JVQjl5enpacXliUUE4bEJhY3pWWg?oc=5",
-    "source": "Local News via Google",
-    "summary": "Crash closes northbound I-95 in Richmond Hill&nbsp;&nbsp;WJCL...",
-    "keyword": "Richmond Hill",
-    "audioLink": ""
   }
 ]
