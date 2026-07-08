@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-07-08T22:50:20.000Z",
+    "title": "News Wrap: Judge orders $5.8M paid to E. Jean Carroll in Trump sex abuse, defamation case",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrapp.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Wednesday, a federal judge ordered that $5 million in damages be released to E. Jean Carroll stemming from her sexual abuse lawsuit against President Trump, former Chicago mayor Rahm Emanuel called for the U.S. to end unconditional s...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrapp.mp3"
+  },
+  {
+    "timestamp": "2026-07-08T22:45:29.000Z",
+    "title": "DOJ threatens to arrest state election officials if noncitizens vote",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/vote2026-2.mp3",
+    "source": "PBS Newshour",
+    "summary": "The Department of Justice is threatening to arrest more than a dozen state election officials if a single vote is cast in their states by a noncitizen. The threat was part of a letter giving election officials five days to detail how they will comply...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/vote2026-2.mp3"
+  },
+  {
+    "timestamp": "2026-07-08T22:40:47.000Z",
+    "title": "How Trump politicized America's 250th birthday",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/america250-1.mp3",
+    "source": "PBS Newshour",
+    "summary": "For the past few weeks, visitors have flocked to the National Mall for the \"Great American State Fair,\" part of the celebration marking the nation's 250th anniversary. But in this milestone year, President Trump's approach to commemorating the annive...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/america250-1.mp3"
+  },
+  {
     "timestamp": "2026-07-08T21:31:49.000Z",
     "title": "How Did We Get Graham Platner, Anyway? The Answer Is the Problem.",
     "link": "https://slate.com/news-and-politics/2026/07/graham-platner-maine-working-class-consultants-backfired.html?via=rss",
@@ -394,41 +421,5 @@
     "summary": "President Trump is departing for a pivotal summit with NATO allies after a year in which he's questioned European countries' sovereignty and doubted the alliance's very utility. Nick Schifrin reports from Ankara, Turkey, where the NATO summit will ta...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/natomeeets.mp3"
-  },
-  {
-    "timestamp": "2026-07-06T22:50:21.000Z",
-    "title": "News Wrap: Funeral held for Iran's late Supreme Leader",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrappiranfuneral.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Monday, hundreds of thousands attended a funeral procession for Iran's late Supreme Leader Ayatollah Ali Khamenei, Hamas dissolved its government in Gaza as it prepares to transfer power, officials in the Democratic Republic of the C...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrappiranfuneral.mp3"
-  },
-  {
-    "timestamp": "2026-07-06T22:45:26.000Z",
-    "title": "U.S. World Cup star's suspension lifted after Trump's call to FIFA president",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/worldcupworldcupworldcup.mp3",
-    "source": "PBS Newshour",
-    "summary": "The United States takes on Belgium Monday with star striker Folarin Balogun on the pitch. Balogun was given a red card in last week's game against Bosnia and Herzegovina, meaning he would miss the next game. But President Trump intervened and FIFA re...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/worldcupworldcupworldcup.mp3"
-  },
-  {
-    "timestamp": "2026-07-06T22:40:17.000Z",
-    "title": "Who could benefit the most from Trump's investment accounts for children",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/trumpacccountsss.mp3",
-    "source": "PBS Newshour",
-    "summary": "Trump Accounts are officially open. They're the first federal tax-advantaged investment accounts for kids. Some 87 companies, foundations, individuals and states have announced contributions to the accounts. The question is, can they deliver the bene...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/trumpacccountsss.mp3"
-  },
-  {
-    "timestamp": "2026-07-06T22:30:20.000Z",
-    "title": "Who Might Replace Graham Platner if He Drops Out of the Maine Senate Race?",
-    "link": "https://www.nytimes.com/2026/07/06/us/politics/who-would-replace-graham-platner-maine.html",
-    "source": "NYTimes Home",
-    "summary": "Graham Platner can be replaced on the ballot if he withdraws in the next week. If he does, Maine Democrats would face an uncertain two-week race to choose a replacement....",
-    "keyword": "graham platner",
-    "audioLink": ""
   }
 ]
