@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-07-24T22:50:23.000Z",
+    "title": "News Wrap: CDC reports more measles cases so far this year than in all of 2025",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrapjuly24.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Friday, the CDC says the U.S. has seen more cases of measles so far this year than in all of 2025, a massive outbreak linked to iceberg lettuce has expanded to four additional states, Iran responded to U.S. strikes by launching wave...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrapjuly24.mp3"
+  },
+  {
+    "timestamp": "2026-07-24T22:45:14.000Z",
+    "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/venezuelavenezuelaquakes.mp3",
+    "source": "PBS Newshour",
+    "summary": "Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicat...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/venezuelavenezuelaquakes.mp3"
+  },
+  {
+    "timestamp": "2026-07-24T22:40:44.000Z",
+    "title": "How volunteers with 3D printers make weapons for Ukraine",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/weaponsondemand.mp3",
+    "source": "PBS Newshour",
+    "summary": "Last week, Ukrainian President Zelenskyy dismissed his tech-savvy defense minister. That sparked protests among supporters who credit him with helping transform Ukraine's defense capabilities. Special correspondent Simon Ostrovsky and producer Katia...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/weaponsondemand.mp3"
+  },
+  {
     "timestamp": "2026-07-24T20:00:00.000Z",
     "title": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
     "link": "https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music",
@@ -151,32 +178,5 @@
     "summary": "Iranian news agencies are reporting widespread aerial attacks across southern Iran. It comes as President Trump issued more threats against Iran and the Islamic Republic's foreign minister responded that any future attacks would be met with \"an eye f...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/iran.mp3"
-  },
-  {
-    "timestamp": "2026-07-22T22:50:47.000Z",
-    "title": "Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/saudi.mp3",
-    "source": "PBS Newshour",
-    "summary": "The U.S. and Saudi Arabia announced a landmark deal that would give the kingdom a civilian nuclear program using American technology, and might allow for uranium enrichment in Saudi Arabia. Critics warn it could lead to further nuclear proliferation....",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/saudi.mp3"
-  },
-  {
-    "timestamp": "2026-07-22T22:45:23.000Z",
-    "title": "News Wrap: Tropical Storm Bertha makes landfall in Louisiana",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrap-6.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Wednesday, Tropical Storm Bertha made landfall on the coast of Louisiana about 40 miles east of New Orleans, this year's cyclosporiasis outbreak in the U.S. is officially the worst on record and OpenAI says it's investigating an 'unp...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrap-6.mp3"
-  },
-  {
-    "timestamp": "2026-07-22T22:40:07.000Z",
-    "title": "The implications of Trump loyalists and election deniers winning GOP primaries",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/vote-1.mp3",
-    "source": "PBS Newshour",
-    "summary": "In Arizona, three prominent election deniers won Republican primaries for governor, secretary of state and attorney general. If they win in November, they'll play key roles in overseeing elections and defending voting laws. Amna Nawaz discussed more...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/vote-1.mp3"
   }
 ]
