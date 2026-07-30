@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-07-30T15:30:22.000Z",
+    "title": "The music that's shaped America",
+    "link": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/FULL_MUSIC_PODCAST.mp3",
+    "source": "PBS Newshour",
+    "summary": "Music has long been one of America's most influential cultural exports. In this episode of \"In Pursuit of Happiness,\" Judy Woodruff talks with music historian Ted Gioia and journalist Sidney Madden about the Black and Indigenous roots of American mus...",
+    "keyword": "PBS",
+    "audioLink": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/FULL_MUSIC_PODCAST.mp3"
+  },
+  {
     "timestamp": "2026-07-30T09:59:18.000Z",
     "title": "US and Iran Trade Strikes After Brief Pause, Fauci Pleads The Fifth, New Asylum Rule",
     "link": "https://www.npr.org/2026/07/30/nx-s1-5913045/us-and-iran-trade-strikes-after-brief-pause-fauci-pleads-the-fifth-new-asylum-rule",
@@ -168,15 +177,6 @@
     "source": "IndieWire",
     "summary": "Focus Features acquired the film about \"Chariots of Fire\" actor Ian Charleson as directed by Simon Stone for a prime awards season bow....",
     "keyword": "Andrew Scott",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-07-28T14:57:31.000Z",
-    "title": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI",
-    "link": "https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/",
-    "source": "Time Magazine",
-    "summary": "The industry's response to the OpenAI incident reveals a growing divide over the future of AI safety....",
-    "keyword": "open-source",
     "audioLink": ""
   }
 ]
