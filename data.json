@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-07-31T22:50:28.000Z",
+    "title": "Tens of thousands of migrants enter Spanish territory, then return to Morocco",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/spain.mp3",
+    "source": "PBS Newshour",
+    "summary": "Spain is rushing troops and resources to one of its territories in North Africa, after tens of thousands of migrants crossed the border from Morocco into the small city of Ceuta. Geoff Bennett reports. PBS News is supported by - https://www.pbs.org/...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/spain.mp3"
+  },
+  {
+    "timestamp": "2026-07-31T22:45:12.000Z",
+    "title": "News Wrap: Death toll from Japan earthquake rises to 34",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrap-10.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Friday, this week's powerful earthquake in Japan has claimed at least 34 lives, a sweltering heat dome descended over much of the West, a Marine Corps fighter jet crashed at Miramar Air Station in California and President Trump says...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/newswrap-10.mp3"
+  },
+  {
+    "timestamp": "2026-07-31T22:40:06.000Z",
+    "title": "How Iranians are living through months of war and government crackdowns",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/costofwar.mp3",
+    "source": "PBS Newshour",
+    "summary": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/costofwar.mp3"
+  },
+  {
     "timestamp": "2026-07-31T17:48:26.000Z",
     "title": "Google adds AI to satellite images, raising fears of deepfakes in the sky",
     "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
@@ -106,32 +133,5 @@
     "summary": "Dr. Anthony Fauci, the face of America's COVID response, repeatedly invoked his Fifth Amendment right before a Senate committee on Wednesday. The hearing, chaired by Republican Sen. Rand Paul, was meant to probe the origins of COVID-19 and whether Fa...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/hotseat.mp3"
-  },
-  {
-    "timestamp": "2026-07-29T22:52:56.000Z",
-    "title": "The campaign against Fauci and what brought him back before Congress",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/hotseatdiss.mp3",
-    "source": "PBS Newshour",
-    "summary": "Dr. Anthony Fauci helped lead the White House pandemic response for Presidents Trump and Biden and is now retired from government service. He appeared under congressional subpoena and invoked his Fifth Amendment rights more than 100 times during ques...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/hotseatdiss.mp3"
-  },
-  {
-    "timestamp": "2026-07-29T22:50:10.000Z",
-    "title": "Brief pause in Iran war ends with new attacks in Iraq and Egypt",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/iran-1.mp3",
-    "source": "PBS Newshour",
-    "summary": "The brief pause in the war with Iran appears to be over. President Trump used blunt language to threaten Iran with further strikes in response to new Iranian attacks on a U.S. base in Jordan. The war also appears to be spreading, with a new explosion...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/iran-1.mp3"
-  },
-  {
-    "timestamp": "2026-07-29T22:48:45.000Z",
-    "title": "Former Iraqi diplomat on forces driving Iran war across region",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/irandiss.mp3",
-    "source": "PBS Newshour",
-    "summary": "For perspective on the effects of the U.S. and Iran trading strikes and the widening war in the region, Geoff Bennett spoke with Feisal Istrabadi, a former Iraqi diplomat and the founding director of the Center for the Study of the Middle East at Ind...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/07/irandiss.mp3"
   }
 ]
