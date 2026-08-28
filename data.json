@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-08-28T22:50:14.000Z",
+    "title": "News Wrap: Friday marks 6 months since Iran war started",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/newswrap-12.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Friday, it has been six months since the U.S. and Israel launched strikes on Iran, a conflict that President Trump said would last weeks, Trump honored the Artemis II crew with the Congressional Space Medal of Honor and Anthropic say...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/newswrap-12.mp3"
+  },
+  {
+    "timestamp": "2026-08-28T22:45:12.000Z",
+    "title": "Fed Chair Warsh not ruling out interest rate hike amid inflation concerns",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/inflation.mp3",
+    "source": "PBS Newshour",
+    "summary": "Federal Reserve Chair Kevin Warsh said there is still work to do on inflation. At the Fed's annual economic symposium in Jackson Hole, Wyoming, Warsh also said that although he is not committed to a rate hike, he is not ruling it out. Amna Nawaz disc...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/inflation.mp3"
+  },
+  {
+    "timestamp": "2026-08-28T22:40:50.000Z",
+    "title": "Groundbreaking treatments and vaccines offer hope in fight against cancer",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/cancer-1.mp3",
+    "source": "PBS Newshour",
+    "summary": "There have been several promising developments lately in cancer research and treatment, including a new drug approved by the FDA this week for advanced pancreatic cancer. William Brangham reports. PBS News is supported by - https://www.pbs.org/newsho...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/cancer-1.mp3"
+  },
+  {
     "timestamp": "2026-08-28T16:20:02.000Z",
     "title": "Is the environmental impact of datacentres finally cutting through?",
     "link": "https://www.theguardian.com/environment/2026/aug/19/is-the-environmental-impact-of-datacentres-finally-cutting-through",
@@ -115,41 +142,5 @@
     "summary": "Two modern commanders appointed on Donetsk front after dismissal of 'Soviet-era' Oleksandr Syrskyi as head of military. What we know on day 1,645Volodymyr Zelenskyy has appointed two of Ukraine's most prominent commanders to oversee and strengthen de...",
     "keyword": "open-source",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-08-26T22:55:13.000Z",
-    "title": "$17B Meta settlement puts focus on youth mental health crisis, Colorado AG says",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/meta-1.mp3",
-    "source": "PBS Newshour",
-    "summary": "Meta agreed to pay up to $17 billion in a settlement, putting to rest a trial where dozens of states accused it of deliberately endangering children through their platforms. The company behind Facebook and Instagram agreed to implement digital guardr...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/meta-1.mp3"
-  },
-  {
-    "timestamp": "2026-08-26T22:50:35.000Z",
-    "title": "Wall of mud and debris floods communities in Nepal and Tibet",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/flood.mp3",
-    "source": "PBS Newshour",
-    "summary": "A devastating flood in Nepal and Tibet has left a trail of death and destruction. Torrential rains sent a wall of mud and debris crashing through communities with little warning. Geoff Bennett reports. PBS News is supported by - https://www.pbs.org/n...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/flood.mp3"
-  },
-  {
-    "timestamp": "2026-08-26T22:45:22.000Z",
-    "title": "News Wrap: States sue USPS, challenging Trump's order on mail-in voting",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/newswrap-10.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Wednesday, Democratic-controlled states filed a new lawsuit against the U.S. Postal Service, challenging President Trump's executive order on mail-in voting, Iran says it would bar all military vessels from passing through the Strait...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/newswrap-10.mp3"
-  },
-  {
-    "timestamp": "2026-08-26T22:40:01.000Z",
-    "title": "How data centers became a major issue in the midterms",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/data.mp3",
-    "source": "PBS Newshour",
-    "summary": "While there are many issues dividing voters this midterm season, one seems to be uniting them: opposition to AI data centers. Candidates who've taken notice are racing to shape policy around these centers, which could be a defining issue in some race...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/08/data.mp3"
   }
 ]
