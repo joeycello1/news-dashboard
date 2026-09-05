@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-09-05T16:01:03.000Z",
+    "title": "Elsinore' and 'The Liberation' Launch TV Stars Andrew Scott and Carrie Coon Into the Oscar Race",
+    "link": "https://www.indiewire.com/awards/predictions/elsinore-the-liberation-andrew-scott-carrie-coon-oscar-race-1235215087/",
+    "source": "IndieWire",
+    "summary": "Telluride Day One boasted two world premieres with heart-rending performances....",
+    "keyword": "Andrew Scott",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-09-05T14:49:58.000Z",
     "title": "Ossoff and Talarico to Share Fund-Raising Event in Hollywood",
     "link": "https://www.nytimes.com/2026/09/05/us/politics/ossoff-talarico-rhimes-fundraiser.html",
@@ -177,15 +186,6 @@
     "source": "Ars Technica",
     "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying....",
     "keyword": "Open Source",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-09-03T16:32:05.000Z",
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community....",
-    "keyword": "open-source",
     "audioLink": ""
   }
 ]
