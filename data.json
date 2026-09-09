@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-09-09T22:55:11.000Z",
+    "title": "AI researcher warns companies are ignoring catastrophic risks",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/ai.mp3",
+    "source": "PBS Newshour",
+    "summary": "Concerns about the risks of artificial intelligence, and whether the companies building it are doing enough to keep it safe, have erupted across the tech world. Jacob Coxon, who previously worked at Anthropic and OpenAI, wrote that the industry under...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/ai.mp3"
+  },
+  {
     "timestamp": "2026-09-09T22:45:05.000Z",
     "title": "News Wrap: White House defends Trump's $45,000 gifts to Natalie Harp and other aides",
     "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-6.mp3",
@@ -142,14 +151,5 @@
     "summary": "Canada's retaliatory tariffs on about $20 billion worth of U.S. goods took effect at midnight, matching President Trump's latest duties after talks collapsed last month.Republicans are gathering in Dallas this week for an unusual midterm convention h...",
     "keyword": "NPR",
     "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/174367cc-84a0-47de-91fc-806f29b2f692/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=174367cc-84a0-47de-91fc-806f29b2f692&feed=HMwRVgVt&t=podcast&e=nx-s1-5960993&p=510318&d=794&size=12720632"
-  },
-  {
-    "timestamp": "2026-09-07T22:55:11.000Z",
-    "title": "What went wrong before an Amazon cargo jet barreled off the runway in Miami",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/crash.mp3",
-    "source": "PBS Newshour",
-    "summary": "Federal officials are investigating why an Amazon cargo jet overran a runway at Miami International Airport, striking two vehicles and killing five people. Video posted to social media shows the Boeing 767 jet was still airborne far down the runway b...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/crash.mp3"
   }
 ]
