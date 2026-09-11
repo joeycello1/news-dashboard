@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-11T23:30:52.000Z",
+    "title": "National security officials recall responding to 9/11 as it unfolded",
+    "link": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/compasspoints_episode31.mp3",
+    "source": "PBS Newshour",
+    "summary": "September 11, 2001 was a day of extraordinary heartbreak. It was also one of chaos, fear and confusion. The national security professionals traveling with President Bush and working inside the White House Situation Room were at the center of it all....",
+    "keyword": "PBS",
+    "audioLink": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/compasspoints_episode31.mp3"
+  },
+  {
+    "timestamp": "2026-09-11T22:55:08.000Z",
+    "title": "Americans remember the lives lost in the 9/11 attacks 25 years ago",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/911.mp3",
+    "source": "PBS Newshour",
+    "summary": "Families, survivors, first responders and dignitaries marked the 25th anniversary of the 9/11 attacks with somber and poignant ceremonies. That included major gatherings in New York, at the Pentagon and in Shanksville, Pennsylvania. The attacks kille...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/911.mp3"
+  },
+  {
     "timestamp": "2026-09-11T22:50:58.000Z",
     "title": "Iran-backed Houthis seize island at entrance to Red Sea, threatening Saudi oil exports",
     "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/war-2.mp3",
@@ -205,14 +223,5 @@
     "summary": "Andrew Scott finds levels of complexity in a stoic character based on meteorologist James Stagg, the man who persuaded Eisenhower to delay Operation Overlord, for this slick wartime dramaThe historic gamble of D-day 1944 gets a new perspective in th...",
     "keyword": "Andrew Scott",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-09-09T22:55:11.000Z",
-    "title": "AI researcher warns companies are ignoring catastrophic risks",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/ai.mp3",
-    "source": "PBS Newshour",
-    "summary": "Concerns about the risks of artificial intelligence, and whether the companies building it are doing enough to keep it safe, have erupted across the tech world. Jacob Coxon, who previously worked at Anthropic and OpenAI, wrote that the industry under...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/ai.mp3"
   }
 ]
