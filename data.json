@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-09-23T22:50:01.000Z",
+    "title": "Xi arrives for state visit amid U.S.-China trade tensions and AI concerns",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/press.mp3",
+    "source": "PBS Newshour",
+    "summary": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump banni...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/press.mp3"
+  },
+  {
+    "timestamp": "2026-09-23T22:45:42.000Z",
+    "title": "News Wrap: FBI investigating hacking group's claim it breached jobs website",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-11.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Wednesday, the FBI says it's investigating a claim by a criminal hacking group that it stole \"very sensitive data\" from the bureau's job website, Hurricane Polo off Mexico's western coast has strengthened into one of the most powerfu...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-11.mp3"
+  },
+  {
+    "timestamp": "2026-09-23T22:40:41.000Z",
+    "title": "New poll reveals how Trump's low approval might affect midterms",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/vote-2.mp3",
+    "source": "PBS Newshour",
+    "summary": "With voting for the midterm elections already underway, President Trump is asking voters to pretend he's on the ballot. A new PBS News/NPR/Marist poll finds that people are, but that could be bad news for the president. We found Democratic congressio...",
+    "keyword": "NPR",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/vote-2.mp3"
+  },
+  {
     "timestamp": "2026-09-23T15:00:52.000Z",
     "title": "My (complicated) relationship with AI: often seductive, occasionally frustrating and always demanding vigilance | Setareh Seyedghorban",
     "link": "https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking",
@@ -160,32 +187,5 @@
     "summary": "CNN, MS NOW and Politico are suing the Trump administration for stripping access to the White House, calling it a \"direct assault on the First Amendment.\" Monday, CNN was removed from its duties for the rotating pool of TV journalists covering the Wh...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/leadtrumpandthepresstape.mp3"
-  },
-  {
-    "timestamp": "2026-09-21T22:50:37.000Z",
-    "title": "Trump's attacks on free press echo rhetoric used by autocrats, Jodie Ginsberg says",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/trumpandthepressdiscussion.mp3",
-    "source": "PBS Newshour",
-    "summary": "To discuss President Trump's decision to ban CNN, MS NOW and Politico from the White House, Amna Nawaz spoke with Jodie Ginsberg, CEO of the Committee to Protect Journalists. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hos...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/trumpandthepressdiscussion.mp3"
-  },
-  {
-    "timestamp": "2026-09-21T22:45:16.000Z",
-    "title": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapsep21.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Monday, the FAA issued ground stops at a handful of major airports on the East Coast due to an equipment failure, Paramount settled antitrust concerns with a dozen states over its buyout of Warner Bros. Discovery and a Venezuelan man...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapsep21.mp3"
-  },
-  {
-    "timestamp": "2026-09-21T22:40:36.000Z",
-    "title": "How abortion drug restrictions make it harder to treat other conditions",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/beyondabortion.mp3",
-    "source": "PBS Newshour",
-    "summary": "For more than 25 years, mifepristone has been approved for abortion in the U.S. But mifepristone and a similar drug have also been proven to treat conditions like uterine fibroids and endometriosis. As anti-abortion groups lobby to further restrict t...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/beyondabortion.mp3"
   }
 ]
