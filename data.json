@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-23T09:00:00.000Z",
+    "title": "Poll: Most voters agree the 2026 midterms are all about Trump - and they disapprove",
+    "link": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
+    "source": "NPR",
+    "summary": "A new NPR/PBS News/Marist poll finds President Trump - and his unpopularity - is an outsize factor in why most voters say they want Democrats to win the midterms....",
+    "keyword": "NPR",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-09-23T09:00:00.000Z",
+    "title": "Poll: Trust in the U.S. Postal Service delivering mail-in ballots on time has fallen",
+    "link": "https://www.npr.org/2026/09/23/nx-s1-5978081/usps-election-mail-in-ballot",
+    "source": "NPR",
+    "summary": "Registered voters are less confident that USPS will deliver election mail on time compared with 2024, an NPR/PBS News/Marist poll finds, after USPS was part of Trump's bid to limit mail voting....",
+    "keyword": "NPR",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-09-22T22:55:13.000Z",
     "title": "Trump defends Iran war and threatens annihilation at UN General Assembly",
     "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/correctleadtapeworldstageunga.mp3",
@@ -178,32 +196,5 @@
     "summary": "World leaders gather in New York for the U.N. General Assembly with the war between the U.S. and Iran dominating the agenda and questions about whether diplomacy can gain traction with Iran's president in attendance.President Trump says his planned \"...",
     "keyword": "NPR",
     "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/6e5bcfae-da67-4856-83ef-54a2579909dd/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=6e5bcfae-da67-4856-83ef-54a2579909dd&feed=HMwRVgVt&t=podcast&e=nx-s1-5976010&p=510318&d=791&size=12666715"
-  },
-  {
-    "timestamp": "2026-09-21T09:40:00.000Z",
-    "title": "Does James Talarico Have a Chance?",
-    "link": "https://slate.com/news-and-politics/2026/09/james-talarico-texas-senate-ken-paxton-midterms.html?via=rss",
-    "source": "Slate",
-    "summary": "Democrats for decades have been seeing a \"blue Texas\" on the horizon. They have paid for it dearly. But they're trying something new this time....",
-    "keyword": "Talarico",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-09-21T09:03:40.000Z",
-    "title": "Bernie Sanders, Steve Case and Others on What Washington Should Do Now on A.I.",
-    "link": "https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-jack-dorsey-ai-policy.html",
-    "source": "NYTimes Home",
-    "summary": "How can the government reel in the technology? Here are six ideas....",
-    "keyword": "Bernie Sanders",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-09-21T09:03:40.000Z",
-    "title": "Bernie Sanders, Steve Case and Others on What Washington Should Do Now on A.I.",
-    "link": "https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-case-ai-policy.html",
-    "source": "NYTimes Home",
-    "summary": "How can the government reel in the technology? Here are six ideas....",
-    "keyword": "Bernie Sanders",
-    "audioLink": ""
   }
 ]
