@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-09-25T22:45:24.000Z",
+    "title": "News Wrap: Xi wraps up 3-day state visit with Trump",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-13.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Friday, Chinese President Xi wrapped up a three-day state visit with President Trump that was heavy on pageantry and light on policy announcements, tens of millions of people along the East Coast could see flooding, rough surf and hi...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-13.mp3"
+  },
+  {
+    "timestamp": "2026-09-25T22:40:01.000Z",
+    "title": "Mexico's foreign secretary on Trump, cartel violence and U.S. trade talks",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/trade.mp3",
+    "source": "PBS Newshour",
+    "summary": "President Trump struck the United States-Mexico-Canada Agreement in his first term, but threw out that trade agreement after retaking office last year. He imposed steep tariffs on both neighbors and even started a trade war with Canada. To discuss tr...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/trade.mp3"
+  },
+  {
+    "timestamp": "2026-09-25T22:35:56.000Z",
+    "title": "Health care costs a major concern for voters ahead of midterms",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/health.mp3",
+    "source": "PBS Newshour",
+    "summary": "Health care is at the center of a political debate as millions of Americans struggle with rising costs. Enrollment in the marketplaces created by the ACA dropped this year, mainly due to the expiration of federal credits. Vice President Vance also an...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/health.mp3"
+  },
+  {
     "timestamp": "2026-09-25T12:00:50.000Z",
     "title": "It's not hypothetical: the dangers of AI are already here | Granate Kim and Mohamed Hussein",
     "link": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
@@ -133,32 +160,5 @@
     "summary": "The president of Iran told the United Nations General Assembly his country won't bend to U.S. intimidation. Masoud Pezeshkian spoke one day after President Trump threatened to escalate the war from the same stage. On the sidelines, U.S. and Iranian o...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/unga.mp3"
-  },
-  {
-    "timestamp": "2026-09-23T22:50:01.000Z",
-    "title": "Xi arrives for state visit amid U.S.-China trade tensions and AI concerns",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/press.mp3",
-    "source": "PBS Newshour",
-    "summary": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump banni...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/press.mp3"
-  },
-  {
-    "timestamp": "2026-09-23T22:45:42.000Z",
-    "title": "News Wrap: FBI investigating hacking group's claim it breached jobs website",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-11.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Wednesday, the FBI says it's investigating a claim by a criminal hacking group that it stole \"very sensitive data\" from the bureau's job website, Hurricane Polo off Mexico's western coast has strengthened into one of the most powerfu...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-11.mp3"
-  },
-  {
-    "timestamp": "2026-09-23T22:40:41.000Z",
-    "title": "New poll reveals how Trump's low approval might affect midterms",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/vote-2.mp3",
-    "source": "PBS Newshour",
-    "summary": "With voting for the midterm elections already underway, President Trump is asking voters to pretend he's on the ballot. A new PBS News/NPR/Marist poll finds that people are, but that could be bad news for the president. We found Democratic congressio...",
-    "keyword": "NPR",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/09/vote-2.mp3"
   }
 ]
