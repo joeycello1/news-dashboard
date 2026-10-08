@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-10-08T22:45:14.000Z",
+    "title": "News Wrap: Judge extends White House access for news outlets",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/newswrap-3.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Thursday, a federal judge extended White House access for three news outlets until a final ruling on President Trump's press ban is reached, the Trump administration is suspending Microsoft from a green card program, accusing the tec...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/newswrap-3.mp3"
+  },
+  {
+    "timestamp": "2026-10-08T22:40:33.000Z",
+    "title": "Botched execution reignites debate surrounding death penalty",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/execution.mp3",
+    "source": "PBS Newshour",
+    "summary": "Christa Pike, the Tennessee woman who survived a botched execution, has reportedly taken a few steps in her hospital room six days after she received two lethal injections. Justice correspondent Ali Rogin discussed questions surrounding the state of...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/execution.mp3"
+  },
+  {
+    "timestamp": "2026-10-08T22:35:31.000Z",
+    "title": "Netanyahu's handling of Oct. 7 emerges as key issue in Israeli election",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/israel.mp3",
+    "source": "PBS Newshour",
+    "summary": "Israel is barreling toward elections in less than three weeks, which could extend Benjamin Netanyahu's already-record tenure as its leader. The Trump administration has worked in near lockstep with Netanyahu since the president's return to office. Am...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/israel.mp3"
+  },
+  {
     "timestamp": "2026-10-08T18:37:02.000Z",
     "title": "Suicide is up among Black Americans. We need to talk about it.",
     "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
@@ -133,32 +160,5 @@
     "summary": "More than a quarter-million people poured into the streets across France on Tuesday, a dramatic development in a student-led movement that began at a single high school. In some cities, police and protesters clashed. French officials condemned what t...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/inthestreetss.mp3"
-  },
-  {
-    "timestamp": "2026-10-06T22:50:32.000Z",
-    "title": "Suspected Iranian drone plot pushed U.S. to evacuate bombers from British air base",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/UKbase.mp3",
-    "source": "PBS Newshour",
-    "summary": "British police arrested a 22-year-old on suspicion of terrorism offenses connected to a possible plot against the RAF Fairford air base. Over the weekend, the U.S. Air Force evacuated bombers from that base, for fear of an attack. Nick Schifrin repor...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/UKbase.mp3"
-  },
-  {
-    "timestamp": "2026-10-06T22:45:39.000Z",
-    "title": "News Wrap: Cornell says Sally Yates will review handling of sexual assault reports",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/cornellnewswrap.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Tuesday, Cornell named former Deputy Attorney General Sally Yates to lead an independent review of how the school handles sexual assault reports on campus, lawyers for Christa Pike said she's awake and speaking after surviving a botc...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/cornellnewswrap.mp3"
-  },
-  {
-    "timestamp": "2026-10-06T22:40:35.000Z",
-    "title": "Examining the DOJ's effort to prosecute non-citizens accused of voting",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/electionsecurity.mp3",
-    "source": "PBS Newshour",
-    "summary": "Ahead of the midterm elections, the Department of Justice is leading a high-profile effort to catch and prosecute people they say illegally cast ballots, sometimes holding televised press conferences to make the announcements. But there is no evidenc...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/electionsecurity.mp3"
   }
 ]
