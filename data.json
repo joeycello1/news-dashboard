@@ -18,6 +18,15 @@
     "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/11fe23c0-82da-4a6b-a2fc-57b24d7c364e/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=11fe23c0-82da-4a6b-a2fc-57b24d7c364e&feed=HMwRVgVt&t=podcast&e=nx-s1-5996581&p=510318&d=918&size=14697996"
   },
   {
+    "timestamp": "2026-10-10T12:07:19.000Z",
+    "title": "COLQUITT CO. AT RICHMOND HILL - WTOC",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fMnhHMWtELW15UlRNZEZfTWxHa1FTam9HVnR3Yl80UVg3bDJjTmd6NXpUVlVTS0lpbzFRZjFuTnhQeGFOelk3QS1OS2FNcVB3SWVIVWVBYlNiZU1LeW9RbWtfcmlTTzlab3NEcVB4Ml9ZZw?oc=5",
+    "source": "Local News via Google",
+    "summary": "COLQUITT CO. AT RICHMOND HILL&nbsp;&nbsp;WTOC...",
+    "keyword": "Richmond Hill",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-10-10T09:00:00.000Z",
     "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
     "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
@@ -43,32 +52,5 @@
     "summary": "Democrats believe a Senate seat in Texas in reach this year, thanks to a combination of enthusiasm for their candidate James Talarico and the scandal-ridden past of his opponent, state Attorney General Ken Paxton. Now, CNN has exclusive new reporting...",
     "keyword": "Talarico",
     "audioLink": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY8450329357.mp3"
-  },
-  {
-    "timestamp": "2026-10-09T09:53:38.000Z",
-    "title": "Bracing For Hurricane Isaias, Ukraine Pushes Russia Back, Iran War Impact On Midterms",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5996414/bracing-for-hurricane-isaias-ukraine-pushes-russia-back-iran-war-impact-on-midterms",
-    "source": "NPR's Up First",
-    "summary": "Hurricane Isaias is expected to strike near the Alabama-Florida state line as communities prepare for dangerous winds, flooding and a life-threatening storm surge.Ukraine is reclaiming territory in the east with a counteroffensive that uses drones an...",
-    "keyword": "NPR",
-    "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/618728b8-9e95-48c8-9405-98f2ce3af8fe/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=618728b8-9e95-48c8-9405-98f2ce3af8fe&feed=HMwRVgVt&t=podcast&e=nx-s1-5996414&p=510318&d=784&size=12550522"
-  },
-  {
-    "timestamp": "2026-10-09T09:00:00.000Z",
-    "title": "In Central African Republic, deported immigrants find themselves in limbo",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
-    "source": "NPR",
-    "summary": "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they've lost control over their own lives....",
-    "keyword": "NPR",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-10-09T09:00:00.000Z",
-    "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
-    "source": "NPR",
-    "summary": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia....",
-    "keyword": "NPR",
-    "audioLink": ""
   }
 ]
