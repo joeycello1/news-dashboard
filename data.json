@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-17T22:54:25.000Z",
+    "title": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+    "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
+    "source": "NYTimes Home",
+    "summary": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate....",
+    "keyword": "Bernie Sanders",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-10-17T22:45:25.000Z",
+    "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+    "source": "NPR",
+    "summary": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon....",
+    "keyword": "NPR",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-10-17T19:22:28.000Z",
     "title": "Paxton Hits the Road, Looking to Rally Texas Republicans",
     "link": "https://www.nytimes.com/2026/10/17/us/paxton-bus-tour-texas-republicans.html",
@@ -12,6 +30,15 @@
     "timestamp": "2026-10-17T15:41:00.000Z",
     "title": "GBI assisting Richmond Hill police with 2 death investigations - WTOC",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclAzdFBEVDFVY2F5dFd2OHhSbExIMldBY0NncFVabzVxc013X0hLd3RTMzVtcUg3aWN5aXNGU2R2eFBYdTE4WmdVaFh3aDEtQ3lqREh4b1JjdHdyeDdMTVlRS2ZmZXAxN19XWTU2eHpIaVhYN3VnU0NGc0gxR0lmcmhJd0hmSkZJWnc3MHlTRDlGbWM4amN0NEVlONIBrwFBVV95cUxQUGc2ZjBLbXJVakE1LXRzcVBwZXpPYk1QZUFWTW9hbHk2cmNjSjRMWDJQY2Vad2FwSnVZaWJRR2ZrekRMZ3FGeDFpcm9QRnl6amVFZG9rWDAwYVZaOXNUUEZ4ZmQwam5fTHpib0pud3pkRDgzT21CSTlmRFZXOGd5MmpWaGJZa0VDV01WX0RidUJER08zNTV2Z0JuLTBieExDM25Rd2xuRFQtamh0YTg4?oc=5",
+    "source": "Local News via Google",
+    "summary": "GBI assisting Richmond Hill police with 2 death investigations&nbsp;&nbsp;WTOC...",
+    "keyword": "Richmond Hill",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-10-17T15:41:00.000Z",
+    "title": "GBI assisting Richmond Hill police with 2 death investigations - WTOC",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclAzdFBEVDFVY2F5dFd2OHhSbExIMldBY0NncFVabzVxc013X0hLd3RTMzVtcUg3aWN5aXNGU2R2eFBYdTE4WmdVaFh3aDEtQ3lqREh4b1JjdHdyeDdMTVlRS2ZmZXAxN19XWTU2eHpIaVhYN3VnU0NGc0gxR0lmcmhJd0hmSkZJWnc3MHlTRDlGbWM4amN0NEVlOA?oc=5",
     "source": "Local News via Google",
     "summary": "GBI assisting Richmond Hill police with 2 death investigations&nbsp;&nbsp;WTOC...",
     "keyword": "Richmond Hill",
@@ -133,14 +160,5 @@
     "summary": "At least three children and a teacher were killed in a shooting at an elementary school in Bend, Oregon, where police say a 16-year-old gunman was killed by an armed community member.As President Trump increasingly blames Ukrainian President Volodymy...",
     "keyword": "NPR",
     "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/31f8b135-8fb8-4b96-9a87-e5782f8f7486/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=31f8b135-8fb8-4b96-9a87-e5782f8f7486&feed=HMwRVgVt&t=podcast&e=nx-s1-6004791&p=510318&d=775&size=12407162"
-  },
-  {
-    "timestamp": "2026-10-15T22:55:24.000Z",
-    "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/russia.mp3",
-    "source": "PBS Newshour",
-    "summary": "The tense alliance between Ukrainian President Zelenskyy and President Trump is nearing a new low point. After days of bitter back-and-forth between the two leaders, Ukraine has resumed strikes on Russian energy targets. Trump had demanded an \"energy...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/10/russia.mp3"
   }
 ]
