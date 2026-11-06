@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-11-05T23:50:08.000Z",
+    "title": "News Wrap: Head of Justice Department's civil rights division resigns",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-1.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Thursday, Harmeet Dhillon is stepping down as head of the Justice Department's civil rights division, Melania Trump hosted Russian and Ukrainian officials to mark a localized ceasefire and European authorities are investigating a ser...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-1.mp3"
+  },
+  {
+    "timestamp": "2026-11-05T23:45:29.000Z",
+    "title": "After midterms, world leaders await Trump's next move in Iran",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/worldreacts.mp3",
+    "source": "PBS Newshour",
+    "summary": "Tuesday's election results were not just closely watched in the U.S. American elections, in many ways, become global events. This Democratic wave has led to an extraordinary outpouring. Nick Schifrin gauges that reaction. PBS News is supported by - h...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/worldreacts.mp3"
+  },
+  {
+    "timestamp": "2026-11-05T23:40:32.000Z",
+    "title": "Rep. Garcia says voters gave Democrats a mandate to pursue accountability",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/democratic.mp3",
+    "source": "PBS Newshour",
+    "summary": "With Democrats set to take control of the House, they are making plans to use their majority not only to advance legislation but also to ramp up congressional oversight. California Rep. Robert Garcia is expected to become the new chairman of the Hous...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/democratic.mp3"
+  },
+  {
     "timestamp": "2026-11-05T21:40:36.000Z",
     "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
     "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
@@ -250,32 +277,5 @@
     "summary": "NPR's Ailsa Chang speaks with House Democratic Whip Katherine Clark of Massachusetts about tonight's midterm elections....",
     "keyword": "NPR",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-03T23:55:40.000Z",
-    "title": "Voters head to polls to decide control of House and Senate",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/correlead.mp3",
-    "source": "PBS Newshour",
-    "summary": "Tuesday on the News Hour, voters across the country head to the polls to decide control of the House and Senate in a midterm election widely seen as a referendum on President Trump and his administration. A look at the DOJ's efforts to change voter r...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/correlead.mp3"
-  },
-  {
-    "timestamp": "2026-11-03T23:50:58.000Z",
-    "title": "A look at the DOJ's effort to gain greater control over elections",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/electionsecurityyy.mp3",
-    "source": "PBS Newshour",
-    "summary": "In recent months, the Trump administration and the Department of Justice have led an extraordinary effort to exert federal control over state-run elections. Nearly all of those efforts, so far, have been blocked or rejected by the courts. To discuss...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/electionsecurityyy.mp3"
-  },
-  {
-    "timestamp": "2026-11-03T23:45:16.000Z",
-    "title": "Pelosi reflects on historic career and predicts 'big victory' for Democrats",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/nancypelosicorrect.mp3",
-    "source": "PBS Newshour",
-    "summary": "The political environment this year is often compared to the midterms of 2006, when Democrats won back control of Congress. After that election, Nancy Pelosi became the first female Speaker of the House. Twenty years later, Pelosi is in the final mon...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/nancypelosicorrect.mp3"
   }
 ]
