@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-11-06T23:50:18.000Z",
+    "title": "News Wrap: Judge blocks construction of Trump's triumphal arch for now",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-2.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Friday, Trump's plans to build a massive triumphal arch near Arlington National Cemetery have been put on hold, two more top officials resigned from the Justice Department, residents along the Georgia-Tennessee border are returning h...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-2.mp3"
+  },
+  {
+    "timestamp": "2026-11-06T23:45:56.000Z",
+    "title": "What to know about a better-than-expected jobs report amid AI bubble concerns",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/economic.mp3",
+    "source": "PBS Newshour",
+    "summary": "Employers added 165,000 new jobs in October, according to a new government report. Job gains for August and September were revised upward as well, by a combined 84,000 jobs. That makes the last three months of the job market look better than expected...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/economic.mp3"
+  },
+  {
+    "timestamp": "2026-11-06T23:40:45.000Z",
+    "title": "Sen.-elect Hamilton reflects on why Kansas voters chose a Democrat for U.S. Senate",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/shift-2.mp3",
+    "source": "PBS Newshour",
+    "summary": "Democrats' midterm wins have reached red states across the country, including Kansas, which has not sent a Democrat to the U.S. Senate since 1932. That will soon change after Rev. Adam Hamilton, who leads the largest United Methodist church in the co...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/shift-2.mp3"
+  },
+  {
     "timestamp": "2026-11-06T21:14:46.000Z",
     "title": "Several Democrats renew calls for datacenter pauses after blue wave",
     "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
@@ -169,23 +196,5 @@
     "summary": "Voters delivered a sweeping rebuke of President Trump and his party in the midterms, handing Democrats major victories and dramatically reshaping the balance of power in Washington. Trump now enters a lame duck phase of his second term, promising bot...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/shift.mp3"
-  },
-  {
-    "timestamp": "2026-11-04T23:50:44.000Z",
-    "title": "News Wrap: Officials in Iran welcome midterm results as vote against war",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Wednesday, top officials in Iran welcomed the results of the U.S. midterm elections, Israeli President Isaac Herzog says he's accepted the results of last week's election and will consult with party leaders on forming a new governmen...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap.mp3"
-  },
-  {
-    "timestamp": "2026-11-04T23:45:30.000Z",
-    "title": "Breaking down the Democrats' big majorities after the blue wave",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/shiftsuperscreen.mp3",
-    "source": "PBS Newshour",
-    "summary": "The results of the midterm tallies have set up a two-year power struggle between Trump's White House and the incoming Democratic Congress. Lisa Desjardins takes a look at the races and the potential size of the incoming Democratic majority. PBS News...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/shiftsuperscreen.mp3"
   }
 ]
