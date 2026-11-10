@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": "2026-11-10T19:33:36.000Z",
+    "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang's Affair With Chinese Executive",
+    "link": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+    "source": "NYTimes Home",
+    "summary": "Wachtell partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry into the chip maker's chief executive....",
+    "keyword": "NVIDIA",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-10T19:32:48.000Z",
+    "title": "This Is a New Way of Doing Impeachment. The Framers Would Have Loved It.",
+    "link": "https://slate.com/news-and-politics/2026/11/pete-hegseth-impeachment-following-trump-orders.html?via=rss",
+    "source": "Slate",
+    "summary": "If Secretary of Defense Pete Hegseth does not resign in the next few days or weeks, he will almost surely be impeached by the House of Representatives....",
+    "keyword": "Hegseth",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-10T19:27:59.000Z",
+    "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+    "source": "NYTimes Home",
+    "summary": "Before Jensen Huang boarded Air Force One en route to Beijing, the president was reminded of intelligence showing that he was in a relationship with a woman believed to be a Chinese spy....",
+    "keyword": "NVIDIA",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-10T19:00:00.000Z",
+    "title": "Latest Google Pixel Drop Lets Gemini Make Phone Calls on Your Behalf",
+    "link": "https://www.pcmag.com/news/latest-google-pixel-drop-lets-gemini-make-phone-calls-on-your-behalf",
+    "source": "PCMag",
+    "summary": "The software update also includes the Gemini Intelligence suite for the Pixel 10 series, the official debut of Google's Pixel Tag, and step-by-step workouts for the Pixel Watch....",
+    "keyword": "Gemini",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-10T18:49:03.000Z",
+    "title": "Explainer: How would impeaching Pentagon chief Hegseth work? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWhYdFkwaTUzVUx1RldDaV8tM0dhZ0FTNUh1UGJXcGlrc0s1T0FmamhCd0h5LXpsdWZSNmh5QTFndWc1dFlTWWI5R1VXSnY3eVo5Q1BFTEpMZVVGN3Ixd2ZtWTNMaTM2QlZrZkM1cHBmTHdoZTJUd3pqZl9kbVJJd3dCdVB5MXNsZ21zbDVGakFuR0RKVVdkWVdTV3piRHZSQ0Fj?oc=5",
+    "source": "Reuters via Google",
+    "summary": "Explainer: How would impeaching Pentagon chief Hegseth work?&nbsp;&nbsp;Reuters...",
+    "keyword": "Hegseth",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-10T17:45:00.000Z",
     "title": "NVIDIA DLSS 4.5 has presets you should know about",
     "link": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
@@ -591,15 +636,6 @@
     "source": "PCMag",
     "summary": "Jensen Huang admits to having an affair and pledges to 'fully cooperate' with the board....",
     "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-08T19:44:26.000Z",
-    "title": "What Talarico's Win Reveals About Christianity in Texas",
-    "link": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
-    "source": "NYTimes Home",
-    "summary": "Senator-elect James Talarico's progressive Christianity seemed to resonate for many in a state whose politics and culture have been dominated by conservative evangelicalism....",
-    "keyword": "Talarico",
     "audioLink": ""
   }
 ]
