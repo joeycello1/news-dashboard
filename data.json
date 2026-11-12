@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-12T20:23:35.000Z",
+    "title": "A Warrior Secretary and a Lesson at the Tomb of the Unknowns",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
+    "source": "NYTimes Home",
+    "summary": "Defense Secretary Pete Hegseth's highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery....",
+    "keyword": "Hegseth",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-12T19:23:03.000Z",
     "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
     "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
@@ -15,6 +24,15 @@
     "source": "The Guardian",
     "summary": "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war. The closely contested race was called more than a week after the US midt...",
     "keyword": "Scott Colom",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-12T18:47:35.000Z",
+    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident....",
+    "keyword": "Hegseth",
     "audioLink": ""
   },
   {
@@ -853,50 +871,5 @@
     "summary": "Hegseth has dismissed the impeachment effort as a \"political spectacle.\"...",
     "keyword": "Hegseth",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T20:46:17.000Z",
-    "title": "Nvidia selloff deepens, adding to AI jitters - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOG9OZzJuZm1xMUpsNTF6M2dFN2VIbG1PaTRBU25xdUNtRnk2ZDg2c05UdERqUHQwcjN6OGhuZUoxajU0aFNGVWhLekxITjdwV1BwUFNucUdMaHp1N1UwWmhVYXI1Q3ZQUUFjVTBGbG1IUXVHTWlTQUU5TUlJc1RMYWREUkhwaFpKWFNyMW83a0k5dw?oc=5",
-    "source": "Reuters via Google",
-    "summary": "Nvidia selloff deepens, adding to AI jitters&nbsp;&nbsp;Reuters...",
-    "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T20:42:44.000Z",
-    "title": "Anthropic's Giant IPO Will Tie It Closer to Nvidia",
-    "link": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
-    "source": "NYTimes Home",
-    "summary": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company....",
-    "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T20:40:13.000Z",
-    "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China....",
-    "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T20:37:47.000Z",
-    "title": "On the Defense: Takeaways From Hegseth's Remarks on Articles of Impeachment",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
-    "source": "NYTimes Home",
-    "summary": "Defense Secretary Pete Hegseth broke a monthslong drought of press briefings to defend his record in office....",
-    "keyword": "Hegseth",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T19:56:22.000Z",
-    "title": "Why Rachel Maddow thinks the Department of Justice is dead",
-    "link": "https://flex2.acast.com/s/settle-in-with-pbs-news/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/SettleIn_Maddow_Audio_FINAL_Comp.mp3",
-    "source": "PBS Newshour",
-    "summary": "Rachel Maddow's latest book, \"Department of Fate,\" tackles the checkered past of the Department of Justice. In this episode of \"Settle In,\" the MS NOW host and anchor speaks with Amna Nawaz about why she considers the DOJ the most consequential insti...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/settle-in-with-pbs-news/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/SettleIn_Maddow_Audio_FINAL_Comp.mp3"
   }
 ]
