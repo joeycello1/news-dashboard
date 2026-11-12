@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-11-12T00:21:37.000Z",
+    "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+    "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+    "source": "NYTimes Home",
+    "summary": "Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party's sweeping election victories....",
+    "keyword": "Hegseth",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-12T00:18:46.000Z",
+    "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth....",
+    "keyword": "Hegseth",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-11T23:55:44.000Z",
+    "title": "Indictment sheds light on alleged Iran-backed plots across U.S. and Europe",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/iran.mp3",
+    "source": "PBS Newshour",
+    "summary": "Iran's top national security official warned that it would strike American bases beyond the Gulf, including in Europe, if the United States resumes air strikes against the Islamic Republic. The warning comes one day after indictments in New York agai...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/iran.mp3"
+  },
+  {
     "timestamp": "2026-11-11T23:50:05.000Z",
     "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
     "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-3.mp3",
@@ -1033,14 +1060,5 @@
     "summary": "President Trump told reporters Monday that he believed Jensen Huang's account and said he did not recall receiving a briefing warning him about Mr. Huang's liaison....",
     "keyword": "NVIDIA",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-09T23:55:35.000Z",
-    "title": "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/leadtapenov9.mp3",
-    "source": "PBS Newshour",
-    "summary": "Lawmakers, investors and tech leaders are assessing bombshell revelations about Nvidia founder and CEO Jensen Huang. Huang admitted to an affair with a woman accused of being a Chinese spy. Nvidia designs chips and processors that power artificial in...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/leadtapenov9.mp3"
   }
 ]
