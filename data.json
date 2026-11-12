@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-12T05:24:25.000Z",
+    "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
+    "link": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
+    "source": "NYTimes Home",
+    "summary": "Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period....",
+    "keyword": "Scott Colom",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-12T04:00:30.000Z",
     "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
     "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
@@ -15,6 +24,15 @@
     "source": "Time Magazine",
     "summary": "Colom defeated incumbent Sen. Cindy Hyde-Smith to become the first Democrat elected to the Senate from Mississippi since 1982....",
     "keyword": "Scott Colom",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-12T00:53:15.000Z",
+    "title": "Soldier Shouts Toward Hegseth to Show 'Respect' at Tomb of the Unknown Soldier",
+    "link": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html",
+    "source": "NYTimes Home",
+    "summary": "A Pentagon spokesman said the sentinel had \"reminded everyone to maintain decorum\" after laughter was heard from a group visiting the burial site with the Defense Secretary on Wednesday....",
+    "keyword": "Hegseth",
     "audioLink": ""
   },
   {
@@ -1085,33 +1103,6 @@
     "link": "https://www.theguardian.com/business/2026/nov/10/britons-stockpiling-water-food-tins-panic-buy-be-ready",
     "source": "The Guardian",
     "summary": "Shoppers appear to have taken government's Be Ready campaign seriously, retail analysts sayBusiness live - latest updatesBritish shoppers have been stocking up on essentials such as bottled water, tinned goods and hand sanitiser, but did not panic bu...",
-    "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T05:43:35.000Z",
-    "title": "The Nvidia Affair",
-    "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-    "source": "NYTimes World",
-    "summary": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China....",
-    "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T05:38:00.000Z",
-    "title": "What we know about Megaspeed, Singapore-based customer of Nvidia - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjZzYjAwbFBvWktTeDNUbEM3UXF0ZmEwQzMxWE41UjV3U0NXekV6SXhneDQ3NERqd1hPUmRzRm9UQ1E2VEFjeHlWLUNVYVQ1THNjYVM5ZVJNZXQzR3BwT09xUHFNTUc2dURnX1FucVlZTFJOczRyZk16TjFXLTF4RUQtTk1pdk5ycWhhN0RMQTJ6UHEwSFlLSnB2dW9KODFNaS01VDBqTHd0c1V1?oc=5",
-    "source": "Reuters via Google",
-    "summary": "What we know about Megaspeed, Singapore-based customer of Nvidia&nbsp;&nbsp;Reuters...",
-    "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-10T05:14:00.000Z",
-    "title": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO? - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGpWWkVxMjhsT0p4YkpQd1NnM25QaGM3OExOUHpyWW9rdk8wN3VocjJJaE55d3U0OVdRTlV0NlhBQ3Q2Y0JKUl9LcEFIQzBKRVN3RGNVUktmUzhoLUktN1VpRTJnY2o0amtpNVRCeFJ6ZFpXbWd2b0pPWENQcGVFSWFLX0xBT2h5bEFEZlBqQmpuT213enA5NUZhcVdqY0hBWm1qZl9WNUY5TzJRYTgxVW4wQmtOWUhCNXZINU13?oc=5",
-    "source": "Reuters via Google",
-    "summary": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO?&nbsp;&nbsp;Reuters...",
     "keyword": "NVIDIA",
     "audioLink": ""
   }
