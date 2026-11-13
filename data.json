@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-13T07:20:24.000Z",
+    "title": "Seth Meyers Is Excited by Scott Colom's Historic Win in Mississippi",
+    "link": "https://www.nytimes.com/2026/11/13/arts/television/late-night-seth-meyers-scott-colom.html",
+    "source": "NYTimes Home",
+    "summary": "\"This is the best news to come out of Mississippi since - this is the best news to come out of Mississippi!\" Meyers said....",
+    "keyword": "Scott Colom",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-13T07:14:21.000Z",
+    "title": "Google unveils Gemini 4 Hydrogen, its new AI model built for speed",
+    "link": "https://mashable.com/tech/google-gemini-4-hydrogen-ai-model-launch",
+    "source": "Mashable",
+    "summary": "Google has announced Gemini 4 Hydrogen, its latest AI model that will replace 3.8 Flash in powering Google Search....",
+    "keyword": "Gemini",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-13T04:36:45.000Z",
     "title": "Talarico appeals to Trump's legacy in bid for bipartisan reforms",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
@@ -707,15 +725,6 @@
     "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
     "source": "The Guardian",
     "summary": "Rolling coverage of the latest economic and financial newsJoon H. Kim, who will lead the investigation into whether Jensen Huang has been the target of a foreign intelligence effort, has an impressive career history - both in private practice and in...",
-    "keyword": "NVIDIA",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-11T07:26:28.000Z",
-    "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-    "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures....",
     "keyword": "NVIDIA",
     "audioLink": ""
   }
