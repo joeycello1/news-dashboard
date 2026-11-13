@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-13T19:15:32.000Z",
+    "title": "Google now lets people connect Gemini to their bank accounts",
+    "link": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+    "source": "Engadget",
+    "summary": "This is for spending analysis and not for making purchases....",
+    "keyword": "Gemini",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-13T15:46:35.000Z",
     "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
     "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
@@ -564,24 +573,6 @@
     "source": "NYTimes Home",
     "summary": "Representative Thomas Massie, the Kentucky Republican, said he would use his waning time in office to prod his party to vote for \"sanity\" and break with President Trump....",
     "keyword": "Hegseth",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-11T19:54:55.000Z",
-    "title": "Google brings the Gemini app to Apple CarPlay",
-    "link": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
-    "source": "Engadget",
-    "summary": "The chatbot was already available through the Google Maps app....",
-    "keyword": "Gemini",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-11T19:00:00.000Z",
-    "title": "Compare GPT, Claude, and Gemini Side by Side for a One-Time $32",
-    "link": "https://www.pcmag.com/deals/compare-gpt-claude-and-gemini-side-by-side-for-a-one-time-32",
-    "source": "PCMag",
-    "summary": "AskAnyModel sends a single prompt to up to six AI models at once, so you can compare answers in a single view and clear your screen of all those tabs. And right now, it's yours for 94% off!...",
-    "keyword": "Gemini",
     "audioLink": ""
   }
 ]
