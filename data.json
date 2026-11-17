@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-17T16:17:22.000Z",
+    "title": "I Tried Framework's $99 Keyboard, and It Killed My Need for a Mouse",
+    "link": "https://www.pcmag.com/opinions/i-tried-frameworks-99-keyboard-and-it-killed-my-need-for-a-mouse",
+    "source": "PCMag",
+    "summary": "Framework's first keyboard packs a touchpad, open-source firmware, and a swappable battery, and it might just become my new go-to for handhelds and TVs....",
+    "keyword": "open-source",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-17T15:21:32.000Z",
     "title": "Should JD Vance run for president? I say go for it, habibi! | Arwa Mahdawi",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/17/should-jd-vance-run-for-president-2028",
@@ -213,15 +222,6 @@
     "source": "PCMag",
     "summary": "1min.AI supports keyword research, rewriting, transcription, and video captions. The one-time purchase includes a monthly credit allowance, and it's 85% off with code DEAL20....",
     "keyword": "Gemini",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-15T16:30:00.000Z",
-    "title": "Vibe coding is changing how musicians customize their gear",
-    "link": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
-    "source": "Engadget",
-    "summary": "AI is changing just about every industry even music. This is how musicians are using vibe coding to alter their sound, their gear and how music is made....",
-    "keyword": "vibe",
     "audioLink": ""
   }
 ]
