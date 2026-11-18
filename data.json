@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-11-18T23:50:56.000Z",
+    "title": "Former national security staffer on how presidents prepare for talks with world leaders",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/chinaintv.mp3",
+    "source": "PBS Newshour",
+    "summary": "For perspective on President Trump's trip to China and how foreign governments assess the president, Amna Nawaz spoke with Julia Curlee. She's a former CIA analyst and served on the National Security Council staff during the Biden and Trump administr...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/chinaintv.mp3"
+  },
+  {
+    "timestamp": "2026-11-18T23:45:27.000Z",
+    "title": "News Wrap: Democrats nominate Hakeem Jeffries for Speaker of the House",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-4.mp3",
+    "source": "PBS Newshour",
+    "summary": "In our news wrap Wednesday, House Democratic Leader Hakeem Jeffries moved a step closer today to becoming the next Speaker of the House, Democrats have secured a 56-to-44 majority in the Senate after Mary Peltola won the last outstanding race in Alas...",
+    "keyword": "Hegseth",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-4.mp3"
+  },
+  {
+    "timestamp": "2026-11-18T23:40:24.000Z",
+    "title": "Lawmakers press Mullin on flight disruptions and ICE tactics",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/outage.mp3",
+    "source": "PBS Newshour",
+    "summary": "National security officials from the Trump administration were on Capitol Hill on Wednesday, and lawmakers had plenty of questions about the series of outages and cyber problems that have alarmed millions. DHS Secretary Markwayne Mullin and Director...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/outage.mp3"
+  },
+  {
     "timestamp": "2026-11-18T21:01:05.000Z",
     "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
     "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
@@ -358,32 +385,5 @@
     "summary": "Three days after air travel was halted in the longest nationwide ground stop since 9/11, the focus has turned to how the air traffic control network can be fixed. The Trump administration is calling for tens of billions of dollars to pay for improvem...",
     "keyword": "PBS",
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/leadtapenov16.mp3"
-  },
-  {
-    "timestamp": "2026-11-16T23:45:40.000Z",
-    "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrapnov16.mp3",
-    "source": "PBS Newshour",
-    "summary": "In our news wrap Monday, President Trump left for Asia, where he'll meet regional leaders, followed by talks with Chinese President Xi Jinping and Russia's Vladimir Putin, Ukrainian President Volodymyr Zelenskyy warned that North Korea is providing R...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrapnov16.mp3"
-  },
-  {
-    "timestamp": "2026-11-16T23:40:37.000Z",
-    "title": "U.S. works to close loophole that let China access advanced AI chips",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/nvidiasegment.mp3",
-    "source": "PBS Newshour",
-    "summary": "The Trump administration announced new rules today to further restrict China's access to advanced chips for the use of AI. It comes as questions are mounting about how the Commerce Department allowed loopholes for chip exports. The rule puts new rest...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/nvidiasegment.mp3"
-  },
-  {
-    "timestamp": "2026-11-16T23:35:35.000Z",
-    "title": "Tamara Keith and Amy Walter on Trump's summit with Xi and Putin",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/politicalstakes.mp3",
-    "source": "PBS Newshour",
-    "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's trip to Asia, his planned meetings with the leaders of China and Russia, what the summ...",
-    "keyword": "NPR",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/politicalstakes.mp3"
   }
 ]
