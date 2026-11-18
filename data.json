@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-18T18:15:59.000Z",
+    "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+    "source": "NPR",
+    "summary": "On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone....",
+    "keyword": "NPR",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-18T16:17:00.000Z",
     "title": "Google to Save Gemini Chats for 2 Months, Even With History Turned Off",
     "link": "https://www.pcmag.com/news/google-to-save-gemini-chats-for-2-months-even-with-history-turned-off",
@@ -366,33 +375,6 @@
     "source": "The Guardian",
     "summary": "The lawsuit stems from an earlier incident where the tech company's products hacked into the open-source platform Hugging FaceCalifornia sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or...",
     "keyword": "open-source",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-16T18:25:20.000Z",
-    "title": "What is vibe manufacturing? AI projects are leaving the chat",
-    "link": "https://mashable.com/tech/what-is-vibe-manufacturing",
-    "source": "Mashable",
-    "summary": "Vibe manufacturing uses AI to help design physical products. Here's what people are making, how designs become objects, and where the limits are....",
-    "keyword": "vibe",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-16T17:34:07.000Z",
-    "title": "Nearly two million people are behind bars in the US. How did we get here?",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-    "source": "NPR",
-    "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America, goes inside the U.S. prison system and explores how our approach to criminals has changed over time....",
-    "keyword": "PBS",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-16T17:00:00.000Z",
-    "title": "Google adds 66 regional dialects to Gemini",
-    "link": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
-    "source": "Engadget",
-    "summary": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate....",
-    "keyword": "Gemini",
     "audioLink": ""
   }
 ]
