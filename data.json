@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-20T23:55:30.000Z",
+    "title": "What Trump addressed during his lengthy White House news conference",
+    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/trump.mp3",
+    "source": "PBS Newshour",
+    "summary": "In a lengthy press conference, President Trump touted his recent trip to Asia and defended his relationship with Chinese President Xi Jinping and Russian President Vladimir Putin. White House correspondent Liz Landers was in the briefing room as the...",
+    "keyword": "PBS",
+    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/trump.mp3"
+  },
+  {
     "timestamp": "2026-11-20T23:50:42.000Z",
     "title": "News Wrap: Stocks tumble as worries about AI rattle market",
     "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-6.mp3",
@@ -205,14 +214,5 @@
     "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro....",
     "keyword": "Hegseth",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-18T23:55:44.000Z",
-    "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/china.mp3",
-    "source": "PBS Newshour",
-    "summary": "President Trump landed in southern China after signing a trade deal and pledging increased defense cooperation with the Philippines. On Thursday, Trump will hold a historic summit with the Chinese and Russian presidents on the sidelines of a meeting...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/china.mp3"
   }
 ]
