@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-21T22:01:35.000Z",
+    "title": "Highlights and challenges from covering an historic month in South America",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+    "source": "NPR",
+    "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit....",
+    "keyword": "NPR",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-21T14:00:01.000Z",
     "title": "I was shaking, crying, having trouble breathing': the unchartered trauma of breaking up with AI companions",
     "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
@@ -142,14 +151,5 @@
     "summary": "Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike....",
     "keyword": "Gemini",
     "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-19T23:55:57.000Z",
-    "title": "Inside the historic summit between Trump, Xi and Putin",
-    "link": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/summit.mp3",
-    "source": "PBS Newshour",
-    "summary": "It was the summit seen around the world. The first-ever trilateral meeting between the leaders of the United States, China and Russia resulted in a joint statement that included promises to release more oil and hold formal talks about nuclear weapons...",
-    "keyword": "PBS",
-    "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/summit.mp3"
   }
 ]
