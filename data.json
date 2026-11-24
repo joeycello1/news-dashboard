@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-11-24T20:34:53.000Z",
+    "title": "What's going on with the Riemann hypothesis?",
+    "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+    "source": "Ars Technica",
+    "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T20:00:54.000Z",
+    "title": "Looking for a new laptop? The best Black Friday laptop deals in the UK, from Macbooks to budget Windows",
+    "link": "https://www.theguardian.com/thefilter/2026/nov/24/best-black-friday-laptop-deals-uk",
+    "source": "The Guardian",
+    "summary": "With RAM prices climbing, now is the perfect time to nab a discount. Here are the best so far on Acer, Chromebooks, gaming laptops and more? The best Black Friday dealsLooking for a new laptop this Black Friday? If you're overdue an upgrade, there ar...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T19:19:12.000Z",
+    "title": "Google Maps vs. Waze: Which App Gets You to Thanksgiving Dinner Faster?",
+    "link": "https://www.pcmag.com/comparisons/google-maps-vs-waze-which-app-gets-you-to-thanksgiving-dinner-faster",
+    "source": "PCMag",
+    "summary": "With features like traffic light locations and AI-powered route planning, modern map apps can do so much more for you this holiday travel season. I tested Google Maps and Waze to find the better navigator....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-24T19:13:49.000Z",
     "title": "The Guardian view on Andy Burnham and Wales: a devolution blindspot at No 10 | Editorial",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-andy-burnham-and-wales-a-devolution-blindspot-at-no-10",
@@ -18,12 +45,84 @@
     "audioLink": ""
   },
   {
+    "timestamp": "2026-11-24T18:50:25.000Z",
+    "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamhxOU8weWdPQlYzdmRWR0hKdVBPdGhpcXVzUVBOcWpmNmdlTXUxSXFiSUE0SUF2Q0NWVlNUOE43TG0tYXFZYm50TnlrNDRJdGxGTUlpeUhKT0lRVjFHb3NPVS1CLS0tWmZoc1lNcEtKTDBWVDhmSVRmVlpxbWRSUmNsWkFva1czcWxXdUJBLW9mVFNLZmk3LU9ZOHZaWFZoNmlV?oc=5",
+    "source": "Reuters via Google",
+    "summary": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast&nbsp;&nbsp;Reuters...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T18:33:37.000Z",
+    "title": "Tidal to Ban Fully AI-Generated Music, Remove Millions of Existing Tracks",
+    "link": "https://www.pcmag.com/news/tidal-to-ban-fully-ai-generated-music-remove-millions-of-existing-tracks",
+    "source": "PCMag",
+    "summary": "All fully AI-generated tracks will be removed from the catalog starting on Dec. 9, and new additions will be flagged and removed....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T18:21:43.000Z",
+    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+    "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T18:08:10.000Z",
+    "title": "Watch: Would you let Meta's AI agent run parts of your life?",
+    "link": "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "summary": "Technology and AI editor Zoe Kleinman spent a week with Meta's new AI agent, Muse - but how useful was it?...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T18:07:42.000Z",
+    "title": "Google filed a patent application for an AI TV channel starring you",
+    "link": "https://mashable.com/tech/google-ai-tv-patent-my-channel",
+    "source": "Mashable",
+    "summary": "Google's \"My Channel\" patent application describes AI-generated shows based on individual viewers' likeness and voice....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T17:58:04.000Z",
+    "title": "Tidal is banning AI-generated music entirely",
+    "link": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/",
+    "source": "Engadget",
+    "summary": "The company expects to purge 29 million tracks starting on December 9....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T17:50:31.000Z",
+    "title": "Trump makes millions after pressuring Nvidia to reinstate Huang - The Latest",
+    "link": "https://www.theguardian.com/news/video/2026/nov/24/trump-makes-millions-after-pushing-nvidia-to-reinstate-huang-the-latest",
+    "source": "The Guardian",
+    "summary": "Jensen Huang has been reinstated as CEO of AI chip powerhouse Nvidia, just 11 days after his resignation. The shock decision came after Donald Trump and senior White House officials lobbied the Nvidia board, claiming Huang posed no security risk desp...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-24T16:59:06.000Z",
     "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
     "source": "Reuters via Google",
     "summary": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value&nbsp;&nbsp;Reuters...",
     "keyword": "Anthropic",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T16:56:50.000Z",
+    "title": "US lawmakers raise alarm at FAA decision to deploy aviation AI tool nationally - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX09tNC00NXNFYTdoaWpkY3ZlVEcxSkViUUlENEdCam5VelFMMy1sdUVuN1Jka3ljaS03X1V4TGoxVlc0aXI5MXgxaFV5UUtKVVgwRklYY0dhM2t4YUVCbkxoNEc1a2cyV2VXRV9HLU1wVHJyU19BM3B0VmVIWW9Wc1VZVm90LXM4dDZkOWZkWHNId2R5UGZhMmFLU0dmNTl5T2hhZ2o4S0ZLbU1aY1FJaTA2bk90aERzamUxVkZXNGJzM3c?oc=5",
+    "source": "Reuters via Google",
+    "summary": "US lawmakers raise alarm at FAA decision to deploy aviation AI tool nationally&nbsp;&nbsp;Reuters...",
+    "keyword": "AI",
     "audioLink": ""
   },
   {
@@ -34,6 +133,60 @@
     "summary": "The Army's controversial plan to blow up hazardous material in Iowa is back on again. Pricier Thanksgiving staples are gobbling up your budget this year. A judge gives Kalshi a major legal reprieve - and it could mean a big change for people under 21...",
     "keyword": "podcastchoices.com",
     "audioLink": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY8443885550.mp3"
+  },
+  {
+    "timestamp": "2026-11-24T14:36:32.000Z",
+    "title": "Meta launches Muse in UK - the AI agent that can do your Christmas shopping",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "source": "The Guardian",
+    "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reportedHave you downloaded Meta's AI assistant Muse or do you plan to?Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping f...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T14:33:35.000Z",
+    "title": "Where AI Meets Instinct in Formula 1",
+    "link": "https://time.com/collection/the-ceo-moment/2026/where-ai-meets-instinct-in-formula-1/",
+    "source": "Time Magazine",
+    "summary": "No description available.",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T14:30:00.000Z",
+    "title": "Save 23% On Lumo, Proton's Privacy-Focused AI With This Outstanding Deal",
+    "link": "https://www.pcmag.com/deals/save-23-on-lumo-protons-privacy-focused-ai-with-this-outstanding-deal",
+    "source": "PCMag",
+    "summary": "Want all of the benefits of modern AI without worrying about your data leaking? Lumo is here, and they've got some serious savings for you....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T13:42:14.000Z",
+    "title": "Thanks to Bluehost's Black Friday Sale the Website of Your Dreams Can Now Be Yours",
+    "link": "https://www.pcmag.com/deals/thanks-to-bluehosts-black-friday-sale-the-website-of-your-dreams-can-now",
+    "source": "PCMag",
+    "summary": "Huge tiered discounts can get you price drops of up to 25% off of Bluehost's hosting, AI website builders, e-commerce setups, and more during the holiday shopping season....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T13:09:24.000Z",
+    "title": "Nothing's Next Earbuds Feature an AI-Powered Recording Case",
+    "link": "https://www.pcmag.com/news/nothings-next-earbuds-feature-an-ai-powered-recording-case",
+    "source": "PCMag",
+    "summary": "The upcoming Nothing Ear (note) will be announced in early December, but we now know more thanks to its first design reveal....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T12:44:40.000Z",
+    "title": "Have you downloaded Meta's AI assistant Muse or do you plan to?",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
+    "source": "The Guardian",
+    "summary": "The digital butler, which can go shopping on behalf of users, is available in the US, UK and Canada. What do you think about it?Meta is continuing its rollout of its Muse AI assistant, with the UK the latest country where the digital butler will be a...",
+    "keyword": "AI",
+    "audioLink": ""
   },
   {
     "timestamp": "2026-11-24T12:15:38.000Z",
@@ -54,6 +207,15 @@
     "audioLink": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5293483630.mp3"
   },
   {
+    "timestamp": "2026-11-24T11:25:29.000Z",
+    "title": "AI boom looms over Warsh's Fed as inflation worries grow - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTBqVnllWWdXMThBVk1EbTYyUVgwVW9RYTR6TW1faTkwM2R3eV9yRVQ4VUkteFBMbS1TdDRCb2VzZXNCT0kySThGTUg2d3EyalZpMHZrZEltcko1Ui1lTGdlSS1PZUpiQlo1WGlxbG1hclV2NC1pUU5YU01GbjB2R2dPMFZQUVBoSGRBMXBhNnRDZ1JUdURuamtRWkpTdw?oc=5",
+    "source": "Reuters via Google",
+    "summary": "AI boom looms over Warsh's Fed as inflation worries grow&nbsp;&nbsp;Reuters...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-24T11:01:14.000Z",
     "title": "Trump's Push To Reinstate Huang, Market Reacts To Nvidia, Russia-Ukraine War Widening",
     "link": "https://www.npr.org/2026/11/24/nx-s1-6052075/trumps-push-to-reinstate-huang-market-reacts-to-nvidia-russia-ukraine-war-widening",
@@ -61,6 +223,24 @@
     "summary": "President Trump says he pushed Nvidia to bring Jensen Huang back as CEO, raising questions about why the White House is getting involved in who runs a private company.Nvidia gained nearly a trillion dollars in value after Huang returned, showing how...",
     "keyword": "NPR",
     "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5e7452ac-2de2-4336-8d0b-8f08ad9a0495/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5e7452ac-2de2-4336-8d0b-8f08ad9a0495&feed=HMwRVgVt&t=podcast&e=nx-s1-6052075&p=510318&d=796&size=12745709"
+  },
+  {
+    "timestamp": "2026-11-24T11:00:03.000Z",
+    "title": "AI's Frankenstein Moment",
+    "link": "https://time.com/article/2026/11/24/ai-s-frankenstein-moment/",
+    "source": "Time Magazine",
+    "summary": "Joseph Luzzi argues that Mary Shelley's classic 1818 novel \"Frankenstein\" can help us better understand, and address, AI....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T10:45:00.000Z",
+    "title": "Don't Bring Up AI if You Want to Enjoy Your Thanksgiving",
+    "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+    "source": "Wired (Culture)",
+    "summary": "Young people anxious about their futures say they're increasingly frustrated with their pro-AI parents. They're worried it's going to make holiday gatherings very tense....",
+    "keyword": "AI",
+    "audioLink": ""
   },
   {
     "timestamp": "2026-11-24T10:16:10.000Z",
@@ -78,6 +258,60 @@
     "source": "NPR",
     "summary": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday - and agreed to provide NPR inside access....",
     "keyword": "NPR",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T10:00:00.000Z",
+    "title": "Money Talks: Are We Living Through the Next Great Financial Crash?",
+    "link": "https://slate.com/podcasts/slate-money/2026/11/ai-booms-railroad-stock-market-1873-crash-future-history-books-liaquat-ahmed?via=rss",
+    "source": "Slate",
+    "summary": "How AI could be the next mini boom that goes bust...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T10:00:00.000Z",
+    "title": "Black Friday puts an AI chess coach in your corner for $39.99",
+    "link": "https://mashable.com/life/nov-24-rookion-ai-chess-coach-starter-plan-lifetime-subscription",
+    "source": "Mashable",
+    "summary": "Get Rookion AI Chess Coach Starter lifetime access for $39.99 this Early Black Friday, with game reviews, practice, and training tools....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T08:40:00.000Z",
+    "title": "AI-driven nightmare leads to woman's eviction from her apartment - WTOC",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGM1NTBlNEpQM0lxeW5CYV80YzJXVGQzMTJWODZuTXlZblB1R0M5MVc1cnlaN3ZHWDhrVEJCV1JnMlQ1RHlfeGdtdlpvSDlwMG0tampWRzZ5LWpMQ21Xdm56bThLYkM2Tk9zMVlBMG5WSGc5Y082WmhTOUZGVjYySDNuTm1HUEt0aHNPWHlEM25vbFV2SWZHN09YZ1ZrVEloa2tHLXRFME1XX3AyWGc?oc=5",
+    "source": "Local News via Google",
+    "summary": "AI-driven nightmare leads to woman's eviction from her apartment&nbsp;&nbsp;WTOC...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T05:58:15.000Z",
+    "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI 'theft'",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+    "source": "The Guardian",
+    "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companiesGet our breaking news email, free app or daily news podcastKate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and cr...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-24T01:45:00.000Z",
+    "title": "At AI speed, Nvidia's Jensen Huang finds exoneration - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlhOYUV1dThCM2pOcWh3OGZpMXdEckVSTTRWRU5jTlBNX01jcnpFSnljTU1qYWhrQS0zZzBWUHE2dmZoaFprbmN3MzYyUW9xRDhGRnZkX29PWkVTNEtLWnJnMTc1WW81T01QR1ppTUNkR3hSZGF4bm84RkF2QWd3cEFSR29IOFVLWFloLUFZbVluY1ZyUnQ2akRmMnp6Vk42cTRES2ZB?oc=5",
+    "source": "Reuters via Google",
+    "summary": "At AI speed, Nvidia's Jensen Huang finds exoneration&nbsp;&nbsp;Reuters...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-23T23:56:37.000Z",
+    "title": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.",
+    "link": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+    "source": "Mashable",
+    "summary": "Google Threat Intelligence has uncovered a fully autonomous AI cyberattack and detailed exactly how it went down....",
+    "keyword": "AI",
     "audioLink": ""
   },
   {
@@ -117,6 +351,15 @@
     "audioLink": "https://flex2.acast.com/s/pbs-newshour-segments/u/d3i6fh83elv35t.cloudfront.net/static/2026/11/immigrationcrackdown.mp3"
   },
   {
+    "timestamp": "2026-11-23T22:47:05.000Z",
+    "title": "U.S. intelligence chief says more tech outages are inevitably coming",
+    "link": "https://mashable.com/tech/jay-clayton-more-tech-outages",
+    "source": "Mashable",
+    "summary": "A U.S. intelligence chief says tech outages are inevitable as aging systems get upgraded. Here's why the outages will keep coming, and where AI fits in....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-23T22:29:00.000Z",
     "title": "US Set to Host 2031 Women's World Cup",
     "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9208190698.mp3",
@@ -124,6 +367,15 @@
     "summary": "President Donald Trump pauses the Army's plans to detonate hazardous materials in Iowa amid intense backlash. CNN's Alayna Treene breaks down the Trump administration officials behind Jensen Huang's return to Nvidia. A Democratic congressman resigns...",
     "keyword": "CNN",
     "audioLink": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9208190698.mp3"
+  },
+  {
+    "timestamp": "2026-11-23T21:42:26.000Z",
+    "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar",
+    "link": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+    "source": "IndieWire",
+    "summary": "The film from director Gossip Goblin will appeal the decision and is still planning an awards qualifying run in theaters beginning December 4....",
+    "keyword": "AI",
+    "audioLink": ""
   },
   {
     "timestamp": "2026-11-23T20:53:12.000Z",
@@ -144,12 +396,66 @@
     "audioLink": ""
   },
   {
+    "timestamp": "2026-11-23T20:36:51.000Z",
+    "title": "Jensen Huang is set to testify before the Senate, and he has some explaining to do",
+    "link": "https://mashable.com/tech/jensen-huang-nvidia-senate-testimony",
+    "source": "Mashable",
+    "summary": "Nvidia CEO Jensen Huang is set to testify publicly on Dec. 3 as lawmakers scrutinize AI chip exports to China and Trump's role in his return....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-23T20:35:00.000Z",
+    "title": "Huang's Nvidia return sparks relief for battered AI trade, but questions remain - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdllUY1JjNjA0T3ZBYjdac2FIVFZWQlF1dUhuclNlcDRfU2gxQzFoQ0kzUk9rcXMxbTJvRXdpZUNVM2ZJTXljQ1B6bjQ3NmxqSmxXTmhqV2JIMFphcGhwQ2dlSGI1Vm56ZUhBcGZMSDdmOVM2eXMyVjMtS19DbWJIVm40U044V0dxR3hPU1NmeldKdGl6VHh0UDVVcnlqUEVudEVrV0MxS1A2UnV6M2U3QldjQjV1OGpV?oc=5",
+    "source": "Reuters via Google",
+    "summary": "Huang's Nvidia return sparks relief for battered AI trade, but questions remain&nbsp;&nbsp;Reuters...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-23T20:05:43.000Z",
     "title": "Anthropic launches Claude Ship to help developers ship code faster - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5",
     "source": "Reuters via Google",
     "summary": "Anthropic launches Claude Ship to help developers ship code faster&nbsp;&nbsp;Reuters...",
     "keyword": "Anthropic",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-23T19:34:13.000Z",
+    "title": "Amazon Alexa Photo Frame Review: A Simple Digital Frame With a Few Smart Tricks",
+    "link": "https://www.pcmag.com/reviews/amazon-alexa-photo-frame",
+    "source": "PCMag",
+    "summary": "Amazon's Alexa Photo Frame pairs a nice display with useful Alexa features like AI photo search, though it only works in landscape mode and its speakers are limited....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-23T19:23:26.000Z",
+    "title": "Trump saw Nvidia's Huang as protector of open-weight AI models, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5",
+    "source": "Reuters via Google",
+    "summary": "Trump saw Nvidia's Huang as protector of open-weight AI models, sources say&nbsp;&nbsp;Reuters...",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-23T18:13:23.000Z",
+    "title": "Nvidias board reinstates Jensen Huang as CEO following Trumps endorsement",
+    "link": "https://mashable.com/tech/nvidia-reinstates-jensen-huang-ceo-trump",
+    "source": "Mashable",
+    "summary": "On Monday, Nov. 23, the Nvidia board of directors voted to reinstate Jensen Huang as CEO of the AI chip maker....",
+    "keyword": "AI",
+    "audioLink": ""
+  },
+  {
+    "timestamp": "2026-11-23T18:00:37.000Z",
+    "title": "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
+    "link": "https://time.com/article/2026/11/23/jensen-huang-return-nvidia-trump/",
+    "source": "Time Magazine",
+    "summary": "Just 11 days after resigning amid an alleged espionage scandal, Huang is back at Nvidia-with questions swirling about Trump's intervention, national security, and the future of the AI industry....",
+    "keyword": "AI",
     "audioLink": ""
   },
   {
@@ -160,6 +466,15 @@
     "summary": "The AI boom is driving huge investment across the economy, but the buildout is also pushing up prices and adding new pressure to inflation.NATO holds an emergency meeting after three Russian cruise missiles entered Poland, as Warsaw pushes the allian...",
     "keyword": "NPR",
     "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5ed55f35-ad34-4ac9-9417-564dcf9d6f12/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5ed55f35-ad34-4ac9-9417-564dcf9d6f12&feed=HMwRVgVt&t=podcast&e=nx-s1-6050781&p=510318&d=831&size=13299923"
+  },
+  {
+    "timestamp": "2026-11-23T08:00:50.000Z",
+    "title": "Dapper Liam and Noel, experimental Bj?rk, and Bowie 'cuddling himself': Rankin reveals his never-before-seen shots of the stars",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/23/rankin-photographer-interview-contact-david-bowie-oasis",
+    "source": "The Guardian",
+    "summary": "After some satirical experiments with the 'disgusting' AI, the photographer has returned to his first love with a book of contact sheets from his celebrity shoots. 'I wish we could go back and stop everything changing,' he says\"I hate AI,\" says Ranki...",
+    "keyword": "AI",
+    "audioLink": ""
   },
   {
     "timestamp": "2026-11-22T22:40:23.000Z",
