@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-26T10:46:47.000Z",
+    "title": "Storm Postpones Thanksgiving Day Parade, Trump's New Tariffs, Iowa Post-Detonation",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6054761/storm-postpones-thanksgiving-day-parade-trumps-new-tariffs-iowa-post-detonation",
+    "source": "NPR's Up First",
+    "summary": "Powerful storms threaten to disrupt Thanksgiving travel for millions of Americans and have forced the Macy's Thanksgiving Day Parade to be postponed for the first time in its history.The Trump administration is proposing new tariffs on goods from fou...",
+    "keyword": "NPR",
+    "audioLink": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/279fc4ff-e0a4-439a-94e6-b438da225b54/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=279fc4ff-e0a4-439a-94e6-b438da225b54&feed=HMwRVgVt&t=podcast&e=nx-s1-6054761&p=510318&d=740&size=11846261"
+  },
+  {
+    "timestamp": "2026-11-26T10:00:00.000Z",
+    "title": "Windows 11 Pro is now $9.97 ahead of Black Friday",
+    "link": "https://mashable.com/tech/nov-26-microsoft-windows-11-pro",
+    "source": "Mashable",
+    "summary": "Get a lifetime Microsoft Windows 11 Pro license for one compatible PC for $9.97 (reg. $199) in this early Black Friday deal....",
+    "keyword": "Windows",
+    "audioLink": ""
+  },
+  {
     "timestamp": "2026-11-26T09:00:00.000Z",
     "title": "Your content workflow gets a $65 early Black Friday lifetime upgrade - ChatGPT, Claude, Gemini, and more",
     "link": "https://mashable.com/tech/nov-26-1minai-advanced-business-plan-lifetime-subscription",
@@ -869,60 +887,6 @@
     "link": "https://time.com/article/2026/11/24/ai-s-frankenstein-moment/",
     "source": "Time Magazine",
     "summary": "Joseph Luzzi argues that Mary Shelley's classic 1818 novel \"Frankenstein\" can help us better understand, and address, AI....",
-    "keyword": "AI",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-24T10:45:00.000Z",
-    "title": "Don't Bring Up AI if You Want to Enjoy Your Thanksgiving",
-    "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-    "source": "Wired (Culture)",
-    "summary": "Young people anxious about their futures say they're increasingly frustrated with their pro-AI parents. They're worried it's going to make holiday gatherings very tense....",
-    "keyword": "AI",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-24T10:16:10.000Z",
-    "title": "Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations",
-    "link": "https://www.pcmag.com/news/googles-ai-mode-is-getting-wallet-drive-and-gemini-app-integrations",
-    "source": "PCMag",
-    "summary": "AI Mode can now tap into Google Wallet to provide tailored responses. Support for additional context from Google Drive and the Gemini app will arrive in the coming weeks....",
-    "keyword": "Gemini",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-24T10:00:02.000Z",
-    "title": "Ive scoured the internet to find the 65 best early Black Friday laptop deals from Apple, Dell, Asus, HP, and more",
-    "link": "https://mashable.com/tech/best-early-black-friday-laptop-deals-2026",
-    "source": "Mashable",
-    "summary": "The best early Black Friday laptop deals bring savings of up to $1,200 on MacBooks, Windows laptops, gaming PCs, and more....",
-    "keyword": "Windows",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-24T10:00:00.000Z",
-    "title": "They attended Trump's meme coin dinner.  It didn't go well",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
-    "source": "NPR",
-    "summary": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday - and agreed to provide NPR inside access....",
-    "keyword": "NPR",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-24T10:00:00.000Z",
-    "title": "Money Talks: Are We Living Through the Next Great Financial Crash?",
-    "link": "https://slate.com/podcasts/slate-money/2026/11/ai-booms-railroad-stock-market-1873-crash-future-history-books-liaquat-ahmed?via=rss",
-    "source": "Slate",
-    "summary": "How AI could be the next mini boom that goes bust...",
-    "keyword": "AI",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-24T10:00:00.000Z",
-    "title": "Black Friday puts an AI chess coach in your corner for $39.99",
-    "link": "https://mashable.com/life/nov-24-rookion-ai-chess-coach-starter-plan-lifetime-subscription",
-    "source": "Mashable",
-    "summary": "Get Rookion AI Chess Coach Starter lifetime access for $39.99 this Early Black Friday, with game reviews, practice, and training tools....",
     "keyword": "AI",
     "audioLink": ""
   }
