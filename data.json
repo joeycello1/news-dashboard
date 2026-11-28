@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-28T09:30:00.000Z",
+    "title": "Five Heroes, Five Remarkable Stories",
+    "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3481229416.mp3",
+    "source": "CNN 5 Things",
+    "summary": "CNN Heroes is celebrating 20 years of honoring everyday people doing extraordinary things. The 2026 CNN Hero of the Year will be announced next Saturday, December 5, during an All-Star tribute at 8 p.m. eastern. &nbsp; &nbsp;In this special episode,...",
+    "keyword": "CNN",
+    "audioLink": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3481229416.mp3"
+  },
+  {
     "timestamp": "2026-11-28T08:00:00.000Z",
     "title": "Ive searched the internet to find the 65 best Black Friday laptop deals from Apple, Dell, Asus, HP, and more",
     "link": "https://mashable.com/tech/black-friday-best-laptop-live-deals-2026",
@@ -222,24 +231,6 @@
     "source": "Mashable",
     "summary": "Get a lifetime Microsoft Windows 11 Pro license for one compatible PC for $9.97 (reg. $199) in this early Black Friday deal....",
     "keyword": "Windows",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-26T09:44:29.000Z",
-    "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
-    "source": "NPR",
-    "summary": "NPR's Leila Fadel welcomes culinary historian Michael Twitty into her kitchen for a Thanksgiving cooking session on making Kush, the forerunner to Southern cornbread dressing....",
-    "keyword": "NPR",
-    "audioLink": ""
-  },
-  {
-    "timestamp": "2026-11-26T09:00:00.000Z",
-    "title": "Your content workflow gets a $65 early Black Friday lifetime upgrade - ChatGPT, Claude, Gemini, and more",
-    "link": "https://mashable.com/tech/nov-26-1minai-advanced-business-plan-lifetime-subscription",
-    "source": "Mashable",
-    "summary": "Get 1min.AI Advanced Business lifetime access for $129.99 during this Early Black Friday price drop, with four million monthly credits....",
-    "keyword": "Gemini",
     "audioLink": ""
   }
 ]
